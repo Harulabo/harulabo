@@ -1,0 +1,1483 @@
+# Translation of Themes - Parallax Frame in Japanese
+# This file is distributed under the same license as the Themes - Parallax Frame package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-02 18:15:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Parallax Frame\n"
+
+#. Theme Name of the plugin/theme
+msgid "Parallax Frame"
+msgstr "Parallax Frame"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; への%1$s件の返信"
+
+#. translators: %s: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; への1件の返信"
+
+#: sidebar.php:53
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: sidebar.php:39
+msgid "This is the Primary Sidebar Widget Area if you are using a two column site layout option."
+msgstr "これは、2列のサイトレイアウトオプションを使用している場合、プライマリーサイドバーウィジェットエリアです。"
+
+#: sidebar.php:36
+msgid "Primary Sidebar Widget Area"
+msgstr "メインサイドバーウィジェットエリア"
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "検索"
+
+#: searchform.php:14 searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "検索対象:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: no-results.php:14
+msgid "Error 404-Page NOT Found"
+msgstr "エラー 404 - ページが見つかりません"
+
+#: inc/widgets/widgets.php:37
+msgid "Footer %d widget area."
+msgstr "フッター %d ウィジェットエリア。"
+
+#: inc/widgets/widgets.php:31
+msgid "Footer Area %d"
+msgstr "フッターエリア %d"
+
+#: inc/widgets/widgets.php:24
+msgid "This is the primary sidebar if you are using a two column site layout option."
+msgstr "2カラムレイアウトオプションを使っているときのプライマリーサイドバーです。"
+
+#: inc/widgets/widgets.php:18
+msgid "Primary Sidebar"
+msgstr "メインサイドバー"
+
+#: inc/widgets/tag-cloud.php:150
+msgid "%"
+msgstr "%"
+
+#: inc/widgets/tag-cloud.php:149
+msgid "em"
+msgstr "em"
+
+#: inc/widgets/tag-cloud.php:148
+msgid "px"
+msgstr "px"
+
+#: inc/widgets/tag-cloud.php:147
+msgid "pt"
+msgstr "pt"
+
+#: inc/widgets/tag-cloud.php:143
+msgid "Unit"
+msgstr "単位"
+
+#: inc/widgets/tag-cloud.php:136
+msgid "Largest"
+msgstr "最大"
+
+#: inc/widgets/tag-cloud.php:129
+msgid "Smallest"
+msgstr "最小"
+
+#: inc/widgets/tag-cloud.php:125
+msgid "Additional Options"
+msgstr "その他の設定"
+
+#: inc/widgets/tag-cloud.php:122
+msgid "Use Custom Taxonomy Slug separated by comma(,)"
+msgstr "カスタム分類スラッグをカンマ (,) で区切って使用ください"
+
+#: inc/widgets/tag-cloud.php:120
+msgid "Custom Taxnomy"
+msgstr "カスタムタクソノミー"
+
+#: inc/widgets/tag-cloud.php:117
+msgid "Link Category"
+msgstr "リンクカテゴリー"
+
+#: inc/widgets/tag-cloud.php:113
+msgid "Category"
+msgstr "カテゴリー"
+
+#: inc/widgets/tag-cloud.php:109
+msgid "Post Tags"
+msgstr "投稿タグ"
+
+#: inc/widgets/tag-cloud.php:106
+msgid "Taxonomies to be used"
+msgstr "使用するタクソノミー"
+
+#: inc/widgets/tag-cloud.php:96
+msgid "Descending"
+msgstr "降順"
+
+#: inc/widgets/tag-cloud.php:95
+msgid "Ascending"
+msgstr "昇順"
+
+#: inc/widgets/tag-cloud.php:90
+msgid "Sequence"
+msgstr "順序"
+
+#: inc/widgets/tag-cloud.php:79
+msgid "Rounded Corners"
+msgstr "角丸"
+
+#: inc/widgets/tag-cloud.php:78
+msgid "Box"
+msgstr "ボックス"
+
+#: inc/widgets/tag-cloud.php:73
+msgid "Skins(Theme)"
+msgstr "スキン (テーマ)"
+
+#: inc/widgets/tag-cloud.php:68
+msgid "No. of Items"
+msgstr "アイテム番号"
+
+#: inc/widgets/tag-cloud.php:50
+msgid "CT: Tag Cloud"
+msgstr "CT: タグクラウド"
+
+#: inc/widgets/tag-cloud.php:41
+msgid "Displays Custom Tag Cloud with selected layout"
+msgstr "選択したレイアウトでカスタムタグクラウドを表示"
+
+#: inc/widgets/social-icons.php:66
+msgid "Title (optional):"
+msgstr "タイトル (オプション): "
+
+#: inc/widgets/social-icons.php:25
+msgid "Use this widget to add Social Icons as a widget. "
+msgstr "このウィジェットを使用して、ウィジェットとしてソーシャルアイコンを追加します。"
+
+#: inc/widgets/social-icons.php:24
+msgid "CT: Social Icons"
+msgstr "CT: ソーシャルアイコン"
+
+#: inc/widgets/featured-posts.php:234
+msgid "characters"
+msgstr "文字"
+
+#: inc/widgets/featured-posts.php:232
+msgid "Limit content to"
+msgstr "コンテンツの制限:"
+
+#: inc/widgets/featured-posts.php:229
+msgid "No Content"
+msgstr "コンテンツなし"
+
+#: inc/widgets/featured-posts.php:228
+msgid "Show Content Limit"
+msgstr "コンテンツ制限を表示する"
+
+#: inc/widgets/featured-posts.php:226
+msgid "Show Content"
+msgstr "コンテンツを表示"
+
+#: inc/widgets/featured-posts.php:224
+msgid "Content Type"
+msgstr "コンテンツの種類"
+
+#: inc/widgets/featured-posts.php:220
+msgid "Check Hide to Author"
+msgstr "投稿者を非表示にする"
+
+#: inc/widgets/featured-posts.php:218
+msgid "Check to Hide Posted On Date"
+msgstr "投稿日を非表示にする"
+
+#: inc/widgets/featured-posts.php:216
+msgid "Check to Hide Tags"
+msgstr "タグを非表示にする"
+
+#: inc/widgets/featured-posts.php:214
+msgid "Check to Hide Cagegory"
+msgstr "カテゴリーを非表示にする"
+
+#: inc/widgets/featured-posts.php:212
+msgid "Post Meta Info"
+msgstr "投稿メタ情報"
+
+#: inc/widgets/featured-posts.php:208
+msgid "Check to Disable Title"
+msgstr "タイトルを非表示にする"
+
+#: inc/widgets/featured-posts.php:195
+msgid "Image Size"
+msgstr "画像サイズ"
+
+#: inc/widgets/featured-posts.php:184
+msgid "Center"
+msgstr "中央"
+
+#: inc/widgets/featured-posts.php:183
+msgid "Right"
+msgstr "右"
+
+#: inc/widgets/featured-posts.php:182
+msgid "Left"
+msgstr "左"
+
+#: inc/widgets/featured-posts.php:177
+msgid "Image Alignment"
+msgstr "画像の配置"
+
+#: inc/widgets/featured-posts.php:173
+msgid "Check to Disable Image"
+msgstr "画像を無効にするにはチェック"
+
+#: inc/widgets/featured-posts.php:161
+msgid "4 Column"
+msgstr "4 カラム"
+
+#: inc/widgets/featured-posts.php:160
+msgid "3 Column"
+msgstr "3 カラム"
+
+#: inc/widgets/featured-posts.php:159
+msgid "2 Column"
+msgstr "2 カラム"
+
+#: inc/widgets/featured-posts.php:158
+msgid "1 Column"
+msgstr "1カラム"
+
+#: inc/widgets/featured-posts.php:154
+msgid "Layout"
+msgstr "レイアウト"
+
+#: inc/widgets/featured-posts.php:143
+msgid "Ascending (1, 2, 3)"
+msgstr "昇順 (1, 2, 3)"
+
+#: inc/widgets/featured-posts.php:142
+msgid "Descending (3, 2, 1)"
+msgstr "降順 (3, 2, 1)"
+
+#: inc/widgets/featured-posts.php:138
+msgid "Order"
+msgstr "順序"
+
+#: inc/widgets/featured-posts.php:127 inc/widgets/tag-cloud.php:94
+msgid "Random"
+msgstr "ランダム"
+
+#: inc/widgets/featured-posts.php:126
+msgid "Comment Count"
+msgstr "コメント数"
+
+#: inc/widgets/featured-posts.php:125
+msgid "Name"
+msgstr "名前"
+
+#: inc/widgets/featured-posts.php:124
+msgid "title"
+msgstr "タイトル"
+
+#: inc/widgets/featured-posts.php:123
+msgid "Author"
+msgstr "作成者"
+
+#: inc/widgets/featured-posts.php:121
+msgid "Date"
+msgstr "新しい順に表示"
+
+#: inc/widgets/featured-posts.php:117
+msgid "Order By"
+msgstr "並び順"
+
+#: inc/widgets/featured-posts.php:112
+msgid "No. of Posts"
+msgstr "投稿番号"
+
+#: inc/widgets/featured-posts.php:96
+msgid "Post ID"
+msgstr "投稿 ID"
+
+#: inc/widgets/featured-posts.php:85 inc/widgets/featured-posts.php:122
+msgid "ID"
+msgstr "ID"
+
+#: inc/widgets/featured-posts.php:84
+msgid "Select Category"
+msgstr "カテゴリーを選択"
+
+#: inc/customizer-includes/custom-controls.php:25
+#: inc/widgets/featured-posts.php:83
+msgid "All Categories"
+msgstr "すべてのカテゴリー"
+
+#: inc/widgets/featured-posts.php:60
+msgid "CT: Featured Posts"
+msgstr "CT: 注目の記事"
+
+#: inc/widgets/featured-posts.php:51
+msgid "Displays featured posts with thumbnails"
+msgstr "サムネイル付きおすすめ記事を表示する"
+
+#: inc/metabox.php:212
+msgid "Parallax Frame Options"
+msgstr "Parallax Frame 設定"
+
+#: inc/metabox.php:127
+msgid "Header Image Option"
+msgstr "ヘッダー画像設定"
+
+#: inc/metabox.php:87
+msgid "Header Featured Image Options"
+msgstr "ヘッダーアイキャッチ画像設定"
+
+#: inc/menus.php:51
+msgid "Menu"
+msgstr "メニュー"
+
+#: inc/menus.php:37
+msgid "Search"
+msgstr "検索"
+
+#: inc/featured-slider.php:198 inc/header-highlight-content.php:327
+msgid "Permalink to: "
+msgstr "パーマリンク先: "
+
+#: inc/featured-content.php:376 inc/hero-content.php:163
+#: inc/logo-slider.php:219 inc/portfolio.php:426
+msgid "Permalink to:"
+msgstr "パーマリンク先: "
+
+#: inc/default-options.php:936
+msgid "by"
+msgstr "by"
+
+#: inc/default-options.php:934
+msgctxt "1: Year, 2: Site Title with home URL"
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr "Copyright &copy; %1$s %2$s. All Rights Reserved."
+
+#: inc/default-options.php:903
+msgid "Fixed"
+msgstr "固定"
+
+#: inc/default-options.php:899
+msgid "Scroll"
+msgstr "スクロール"
+
+#: inc/default-options.php:883
+msgid "Tile"
+msgstr "タイル"
+
+#: inc/default-options.php:879
+msgid "No repeat"
+msgstr "繰り返しなし"
+
+#: inc/default-options.php:863
+msgid "Bottom"
+msgstr "下"
+
+#: inc/default-options.php:859 inc/widgets/featured-posts.php:181
+msgid "Top"
+msgstr "上"
+
+#: inc/default-options.php:843
+msgid "Disable Image"
+msgstr "画像を無効化"
+
+#: inc/default-options.php:837
+msgid "Full Image"
+msgstr "フルサイズ画像"
+
+#: inc/default-options.php:804
+msgid "Disable"
+msgstr "無効化"
+
+#: inc/default-options.php:799
+msgid "Enable"
+msgstr "有効化"
+
+#: inc/default-options.php:763 inc/default-options.php:794
+#: inc/default-options.php:820 inc/widgets/tag-cloud.php:77
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/default-options.php:745
+msgid "Link"
+msgstr "リンク"
+
+#: inc/default-options.php:741
+msgid "Cloud"
+msgstr "クラウド"
+
+#: inc/default-options.php:737
+msgid "Cart"
+msgstr "カート"
+
+#: inc/default-options.php:733
+msgid "Handset"
+msgstr "ハンドセット"
+
+#: inc/default-options.php:729
+msgid "Phone"
+msgstr "電話番号"
+
+#: inc/default-options.php:725
+msgid "Website"
+msgstr "Web サイト"
+
+#: inc/default-options.php:721
+msgid "Twitch"
+msgstr "Twitch"
+
+#: inc/default-options.php:717
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: inc/default-options.php:713
+msgid "Spotify"
+msgstr "Spotify"
+
+#: inc/default-options.php:709
+msgid "DropBox"
+msgstr "DropBox"
+
+#: inc/default-options.php:705
+msgid "Pocket"
+msgstr "Pocket"
+
+#: inc/default-options.php:701
+msgid "Stumbleupon"
+msgstr "StumbleUpon"
+
+#: inc/default-options.php:697
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/default-options.php:693
+msgid "Digg"
+msgstr "Digg"
+
+#: inc/default-options.php:689
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/default-options.php:685
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/default-options.php:681
+msgid "Path"
+msgstr "Path"
+
+#: inc/default-options.php:677
+msgid "CodePen"
+msgstr "CodePen"
+
+#: inc/default-options.php:673
+msgid "PollDaddy"
+msgstr "PollDaddy"
+
+#: inc/default-options.php:669
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/default-options.php:665
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/default-options.php:661
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/default-options.php:657
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/default-options.php:653
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/default-options.php:649
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/default-options.php:645
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/default-options.php:641
+msgid "GitHub"
+msgstr "GitHub"
+
+#: inc/default-options.php:637
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/default-options.php:633
+msgid "Feed"
+msgstr "フィード"
+
+#: inc/default-options.php:629 inc/social-icons.php:31
+msgid "Email"
+msgstr "メール"
+
+#: inc/default-options.php:625
+msgid "Googleplus"
+msgstr "Google+"
+
+#: inc/default-options.php:621
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/default-options.php:617
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/default-options.php:581
+msgid "Infinite Scroll (Scroll)"
+msgstr "無限スクロール (スクロール)"
+
+#: inc/default-options.php:577
+msgid "Infinite Scroll (Click)"
+msgstr "無限スクロール (クリック)"
+
+#: inc/default-options.php:573
+msgid "Numeric"
+msgstr "数字"
+
+#: inc/default-options.php:569
+msgid "Default(Older Posts/Newer Posts)"
+msgstr "デフォルト (過去の投稿/新しい投稿)"
+
+#: inc/default-options.php:552
+msgid "Page Logo Slider"
+msgstr "ページロゴスライダー"
+
+#: inc/default-options.php:548
+msgid "Demo Logo Slider"
+msgstr "デモのロゴスライダー"
+
+#: inc/default-options.php:531
+msgid "Page Portfolio"
+msgstr "ポートフォリオページ"
+
+#: inc/default-options.php:527
+msgid "Demo Portfolio"
+msgstr "ポートフォリオデモ"
+
+#: inc/default-options.php:510
+msgid "False"
+msgstr "偽"
+
+#: inc/default-options.php:506
+msgid "Wait"
+msgstr "待機"
+
+#: inc/default-options.php:502
+msgid "True"
+msgstr "真"
+
+#: inc/default-options.php:485
+msgid "Shuffle"
+msgstr "シャッフル"
+
+#: inc/default-options.php:481
+msgid "Tile Blind"
+msgstr "タイルブラインド"
+
+#: inc/default-options.php:477
+msgid "Tile Slide"
+msgstr "タイルスライド"
+
+#: inc/default-options.php:473
+msgid "Flip Vertical"
+msgstr "垂直に反転"
+
+#: inc/default-options.php:469
+msgid "Flip Horizontal"
+msgstr "水平に反転"
+
+#: inc/default-options.php:465
+msgid "Scroll Vertical"
+msgstr "縦方向にスクロール"
+
+#: inc/default-options.php:461
+msgid "Scroll Horizontal"
+msgstr "横方向にスクロール"
+
+#: inc/default-options.php:457
+msgid "None"
+msgstr "なし"
+
+#: inc/default-options.php:453
+msgid "Fade Out"
+msgstr "フェードアウト"
+
+#: inc/default-options.php:449
+msgid "Fade"
+msgstr "フェード"
+
+#: inc/default-options.php:432
+msgid "Featured Page Slider"
+msgstr "おすすめページスライダー"
+
+#: inc/default-options.php:428
+msgid "Demo Featured Slider"
+msgstr "おすすめスライダーのデモ"
+
+#: inc/default-options.php:390
+msgid "Hide Content"
+msgstr "コンテンツを非表示"
+
+#: inc/default-options.php:386
+msgid "Show Full Content"
+msgstr "全文を表示"
+
+#: inc/default-options.php:382 inc/widgets/featured-posts.php:227
+msgid "Show Excerpt"
+msgstr "抜粋を表示"
+
+#: inc/default-options.php:365
+msgid "4 columns"
+msgstr "4カラム"
+
+#: inc/default-options.php:361
+msgid "3 columns"
+msgstr "3カラム"
+
+#: inc/default-options.php:344
+msgid "Featured Page Content"
+msgstr "おすすめページコンテンツ"
+
+#: inc/default-options.php:340
+msgid "Demo Featured Content"
+msgstr "おすすめコンテンツのデモ"
+
+#: inc/default-options.php:323 inc/default-options.php:411
+msgid "Page Content"
+msgstr "ページコンテンツ"
+
+#: inc/default-options.php:319 inc/default-options.php:407
+msgid "Demo Content"
+msgstr "デモコンテンツ"
+
+#: inc/default-options.php:279 inc/default-options.php:602
+msgid "Full size"
+msgstr "フルサイズ"
+
+#: inc/default-options.php:259 inc/default-options.php:302
+#: inc/default-options.php:601
+msgid "Disabled"
+msgstr "無効化"
+
+#: inc/default-options.php:255
+msgid "Pages and Posts"
+msgstr "ページと投稿"
+
+#: inc/default-options.php:251
+msgid "Entire Site, Page/Post Featured Image"
+msgstr "サイト全体、ページ・投稿アイキャッチ画像"
+
+#: inc/default-options.php:247 inc/default-options.php:298
+msgid "Entire Site"
+msgstr "サイト全体"
+
+#: inc/default-options.php:243
+msgid "Excluding Homepage, Page/Post Featured Image"
+msgstr "ホームページ、ページ・投稿アイキャッチ画像を覗く"
+
+#: inc/default-options.php:239
+msgid "Excluding Homepage"
+msgstr "ホームページを除く"
+
+#: inc/default-options.php:235 inc/default-options.php:294
+msgid "Homepage / Frontpage"
+msgstr "ホームページ / フロントページ"
+
+#: inc/default-options.php:219
+msgid "Show Full Content (No Featured Image)"
+msgstr "全文を表示 (アイキャッチ画像なし)"
+
+#: inc/default-options.php:215
+msgid "Show Excerpt (Image Left)"
+msgstr "抜粋を表示 (画像左)"
+
+#: inc/default-options.php:199 inc/default-options.php:778
+msgid "No Sidebar ( Content Width )"
+msgstr "サイドバーなし (コンテンツ幅)"
+
+#: inc/default-options.php:195 inc/default-options.php:773
+msgid "Content, Primary Sidebar"
+msgstr "コンテンツ、メインサイドバー"
+
+#: inc/default-options.php:191 inc/default-options.php:768
+msgid "Primary Sidebar, Content"
+msgstr "メインサイドバー、コンテンツ"
+
+#: inc/default-options.php:174
+msgid "Dark"
+msgstr "ダーク"
+
+#: inc/default-options.php:170
+msgid "Light"
+msgstr "ライト"
+
+#: inc/default-options.php:68
+msgid "Search..."
+msgstr "検索…"
+
+#: inc/default-options.php:63
+msgid "Buy Now"
+msgstr "今すぐ購入"
+
+#: inc/default-options.php:61
+msgid "Parallax Frame WordPress Theme"
+msgstr "Parallax Frame WordPress Theme"
+
+#: inc/default-options.php:51 inc/widgets/featured-posts.php:46
+msgid "Read More ..."
+msgstr "続きを読む…"
+
+#: inc/default-options.php:34
+msgid "View More"
+msgstr "さらに表示"
+
+#: inc/customizer-includes/upgrade-button/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "今すぐアップグレード"
+
+#: inc/customizer-includes/upgrade-button/class-customize.php:76
+msgid "Parallax Frame Pro"
+msgstr "Parallax Frame Pro"
+
+#: inc/customizer-includes/theme-options.php:460
+msgid "Check to disable Single Post Navigation"
+msgstr "個別投稿ナビゲーションを無効化するにはチェック"
+
+#: inc/customizer-includes/theme-options.php:450
+msgid "Single Post Navigation"
+msgstr "個別投稿ナビゲーション"
+
+#: inc/customizer-includes/theme-options.php:439
+msgid "Default Display Text in Search"
+msgstr "検索フィールドのデフォルトテキスト"
+
+#: inc/customizer-includes/theme-options.php:429
+msgid "Search Options"
+msgstr "検索設定"
+
+#: inc/customizer-includes/theme-options.php:426
+msgid "Change default placeholder text in Search."
+msgstr "検索のデフォルト仮テキストを変更。"
+
+#: inc/customizer-includes/theme-options.php:417
+msgid "Check to disable Scroll Up"
+msgstr "チェックして上スクロールを無効化"
+
+#: inc/customizer-includes/theme-options.php:407
+msgid "Scrollup Options"
+msgstr "上スクロール設定"
+
+#: inc/customizer-includes/theme-options.php:379
+msgid "Promotion Headline Link"
+msgstr "プロモーション見出しリンク"
+
+#: inc/customizer-includes/theme-options.php:364
+msgid "Promotion Headline Button Text "
+msgstr "プロモーション見出しボタンテキスト "
+
+#: inc/customizer-includes/theme-options.php:363
+msgid "Appropriate Words: 3"
+msgstr "適切な文字数: 3"
+
+#: inc/customizer-includes/theme-options.php:349
+msgid "Promotion Subheadline Text"
+msgstr "プロモーション小見出しテキスト"
+
+#: inc/customizer-includes/theme-options.php:348
+msgid "Appropriate Words: 15"
+msgstr "適切な文字数: 15"
+
+#: inc/customizer-includes/theme-options.php:334
+msgid "Promotion Headline Text"
+msgstr "プロモーション見出しテキスト"
+
+#: inc/customizer-includes/theme-options.php:333
+msgid "Appropriate Words: 10"
+msgstr "適切な文字数: 10"
+
+#: inc/customizer-includes/theme-options.php:319
+msgid "Enable Promotion Headline on"
+msgstr "プロモーション見出しを有効化:"
+
+#: inc/customizer-includes/theme-options.php:302
+msgid "Promotion Headline Options"
+msgstr "プロモーション見出し設定"
+
+#: inc/customizer-includes/theme-options.php:299
+msgid "To disable the fields, simply leave them empty."
+msgstr "フィールドを無効にするには、空のままにしておきます。"
+
+#: inc/customizer-includes/theme-options.php:290
+msgid "Pagination type"
+msgstr "ページ送りのタイプ"
+
+#: inc/customizer-includes/theme-options.php:273
+msgid "Pagination Options"
+msgstr "ページ送り設定"
+
+#: inc/customizer-includes/theme-options.php:253
+msgid "Infinite Scroll Options requires <a target=\"_blank\" href=\"%s\">JetPack Plugin</a> with Infinite Scroll module Enabled."
+msgstr "無限スクロールオプションを使うには <a target=\"_blank\" href=\"%s\">Jetpack プラグイン</a>の無限スクロールモジュールを有効化する必要があります。"
+
+#: inc/customizer-includes/theme-options.php:220 inc/metabox.php:88
+msgid "Single Page/Post Image Layout "
+msgstr "個別ページ・投稿の画像レイアウト "
+
+#: inc/customizer-includes/theme-options.php:206
+msgid "Archive Content Layout"
+msgstr "アーカイブコンテンツレイアウト"
+
+#: inc/customizer-includes/theme-options.php:186
+msgid "Default Layout"
+msgstr "デフォルトレイアウト"
+
+#: inc/customizer-includes/theme-options.php:169 inc/metabox.php:86
+msgid "Layout Options"
+msgstr "レイアウト設定"
+
+#: inc/customizer-includes/theme-options.php:155
+msgid "Select Categories"
+msgstr "カテゴリーを選択"
+
+#: inc/customizer-includes/theme-options.php:145
+msgid "Homepage / Frontpage Options"
+msgstr "ホームページ / フロントページ設定"
+
+#: inc/customizer-includes/theme-options.php:142
+msgid "Only posts that belong to the categories selected here will be displayed on the front page"
+msgstr "ここで選択したカテゴリーに投稿された記事のみがフロントページに表示されます"
+
+#: inc/customizer-includes/theme-options.php:133
+msgid "Read More Text"
+msgstr "「続きを読む」テキスト"
+
+#: inc/customizer-includes/theme-options.php:119
+msgid "Excerpt Length (words)"
+msgstr "抜粋の長さ (文字数)"
+
+#: inc/customizer-includes/theme-options.php:112
+msgid "Excerpt length. Default is 40 words"
+msgstr "抜粋の長さ。デフォルトは40文字"
+
+#: inc/customizer-includes/theme-options.php:102
+msgid "Excerpt Options"
+msgstr "抜粋設定"
+
+#: inc/customizer-includes/theme-options.php:89
+msgid "Enter Custom CSS"
+msgstr "カスタム CSS を入力"
+
+#: inc/customizer-includes/theme-options.php:79
+msgid "Custom CSS Options"
+msgstr "カスタム CSS 設定"
+
+#: inc/customizer-includes/theme-options.php:76
+msgid "Custom/Inline CSS"
+msgstr "カスタム/インライン CSS"
+
+#: inc/customizer-includes/theme-options.php:61
+msgid "Separator between Breadcrumbs"
+msgstr "パンくずリストの区切り記号"
+
+#: inc/customizer-includes/theme-options.php:45
+msgid "Check to enable Breadcrumb on Homepage"
+msgstr "チェックしてホームページでパンくずリストを有効化"
+
+#: inc/customizer-includes/theme-options.php:32
+msgid "Check to enable Breadcrumb"
+msgstr "チェックしてパンくずリストを有効化"
+
+#: inc/customizer-includes/theme-options.php:21
+msgid "Breadcrumb Options"
+msgstr "パンくずリスト設定"
+
+#: inc/customizer-includes/theme-options.php:19
+msgid "Breadcrumbs are a great way of letting your visitors find out where they are on your site with just a glance. You can enable/disable them on homepage and entire site."
+msgstr "パンくずリストは訪問者がサイトのどこにあるのかを一目で把握するのに最適な方法です。ホームページやサイト全体で有効/無効にすることができます。"
+
+#: inc/customizer-includes/theme-options.php:14
+msgid "Theme Options"
+msgstr "テーマ設定"
+
+#: inc/customizer-includes/theme-options.php:11
+msgid "Basic theme Options"
+msgstr "基本テーマ設定"
+
+#: inc/customizer-includes/social-icons.php:15
+#: inc/customizer-includes/social-icons.php:21
+msgid "Social Links"
+msgstr "ソーシャルリンク"
+
+#: inc/customizer-includes/portfolio.php:124
+msgid "No of Portfolio"
+msgstr "ポートフォリオの数"
+
+#: inc/customizer-includes/portfolio.php:103
+msgid "Select Portfolio Type"
+msgstr "ポートフォリオ形式を選択"
+
+#: inc/customizer-includes/portfolio.php:81
+msgid "Sub-headline for Portfolio"
+msgstr "ポートフォリオのサブ見出し"
+
+#: inc/customizer-includes/portfolio.php:65
+msgid "Headline for Portfolio"
+msgstr "ポートフォリオの見出し"
+
+#: inc/customizer-includes/portfolio.php:50
+msgid "Select Portfolio Layout"
+msgstr "ポートフォリオのレイアウトを選択"
+
+#: inc/customizer-includes/portfolio.php:29
+msgid "Enable Portfolio on"
+msgstr "ポートフォリオを有効にする"
+
+#: inc/customizer-includes/portfolio.php:12 inc/portfolio.php:51
+msgid "Portfolio"
+msgstr "ポートフォリオ"
+
+#: inc/customizer-includes/logo-slider.php:169
+msgid "Page "
+msgstr "ページ"
+
+#: inc/customizer-includes/logo-slider.php:153
+msgid "No of visible items"
+msgstr "表示アイテム数"
+
+#: inc/customizer-includes/logo-slider.php:132
+msgid "No of Items"
+msgstr "アイテムの数"
+
+#: inc/customizer-includes/logo-slider.php:63
+msgid "Logo Slider Type"
+msgstr "ロゴスライダーの形式"
+
+#: inc/customizer-includes/logo-slider.php:43
+msgid "Logo Slider Background Image"
+msgstr "ロゴスライダーの背景画像"
+
+#: inc/customizer-includes/logo-slider.php:29
+msgid "Enable Logo Slider on"
+msgstr "ロゴスライダーを有効にする"
+
+#: inc/customizer-includes/logo-slider.php:12
+msgid "Logo Slider"
+msgstr "ロゴスライダー"
+
+#: inc/customizer-includes/hero-content.php:71
+msgid "No of Hero Content"
+msgstr "ヒーローコンテンツの数"
+
+#: inc/customizer-includes/hero-content.php:64
+msgid "Save and refresh the page if No. of Hero Content is changed (Max no of Hero Content is 20)"
+msgstr "ヒーローコンテンツの数 (最大数は20です) を変更した場合、保存した後にこのページを再読込してください。"
+
+#: inc/customizer-includes/hero-content.php:29
+msgid "Enable Hero Content on"
+msgstr "ヒーローコンテンツを有効にする"
+
+#: inc/customizer-includes/hero-content.php:12
+msgid "Hero Content"
+msgstr "ヒーローコンテンツ"
+
+#: inc/customizer-includes/header-options.php:103
+#: inc/customizer-includes/theme-options.php:394
+msgid "Check to Open Link in New Window/Tab"
+msgstr "チェックしてリンクを新しいウィンドウまたはタブで開く"
+
+#: inc/customizer-includes/header-options.php:91
+msgid "Button Link"
+msgstr "ボタンリンク"
+
+#: inc/customizer-includes/header-options.php:78
+msgid "Button Text"
+msgstr "ボタンテキスト"
+
+#: inc/customizer-includes/header-options.php:65
+msgid "Content"
+msgstr "コンテンツ"
+
+#: inc/customizer-includes/header-options.php:52
+#: inc/customizer-includes/logo-slider.php:112
+#: inc/widgets/featured-posts.php:74 inc/widgets/tag-cloud.php:63
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/customizer-includes/header-options.php:39
+msgid "Page/Post Featured Image Size"
+msgstr "固定ページ / 投稿のアイキャッチ画像サイズ"
+
+#: inc/customizer-includes/header-options.php:25
+msgid "Enable Featured Header Image on "
+msgstr "ヘッダーアイキャッチ画像設定を有効化: "
+
+#: inc/customizer-includes/header-highlight-content.php:125
+msgid "No of Header Highlight Content"
+msgstr "ヘッダーのハイライトコンテンツの番号"
+
+#: inc/customizer-includes/header-highlight-content.php:120
+msgid "Save and refresh the page if No. of Header Highlight Content is changed (Max no of Header Highlight Content is 21)"
+msgstr "ヘッダーハイライトコンテンツの数 (最大数は21です) を変更した場合、保存した後にこのページを再読込してください。"
+
+#: inc/customizer-includes/header-highlight-content.php:82
+msgid "Sub-headline for Header Highlight Content"
+msgstr "ヘッダーのハイライトコンテンツのサブ見出し"
+
+#: inc/customizer-includes/header-highlight-content.php:66
+msgid "Headline for Header Highlight Content"
+msgstr "ヘッダーのハイライトコンテンツの見出し"
+
+#: inc/customizer-includes/header-highlight-content.php:29
+msgid "Enable Header Highlight Content on"
+msgstr "ヘッダーのハイライトコンテンツを有効にする"
+
+#: inc/customizer-includes/header-highlight-content.php:12
+msgid "Header Highlight Content"
+msgstr "ヘッダーのハイライトコンテンツ"
+
+#: inc/customizer-includes/featured-slider.php:150
+msgid "No of Slides"
+msgstr "スライドの数"
+
+#: inc/customizer-includes/featured-slider.php:143
+#: inc/customizer-includes/logo-slider.php:125
+msgid "Save and refresh the page if No. of Slides is changed (Max no of slides is 20)"
+msgstr "スライドの数が変更された場合、保存してページを再読み込みしてください (スライド数の上限は20枚)"
+
+#: inc/customizer-includes/featured-slider.php:129
+msgid "Select Slider Type"
+msgstr "スライダーの種類を選択"
+
+#: inc/customizer-includes/featured-slider.php:108
+msgid "Image Loader"
+msgstr "画像ローダー"
+
+#: inc/customizer-includes/featured-slider.php:86
+#: inc/customizer-includes/logo-slider.php:98
+msgid "Transition Length"
+msgstr "遷移の長さ"
+
+#: inc/customizer-includes/featured-slider.php:69
+#: inc/customizer-includes/logo-slider.php:81
+msgid "Transition Delay"
+msgstr "遷移遅延"
+
+#: inc/customizer-includes/featured-slider.php:65
+#: inc/customizer-includes/featured-slider.php:82
+#: inc/customizer-includes/logo-slider.php:77
+#: inc/customizer-includes/logo-slider.php:94
+msgid "seconds(s)"
+msgstr "秒"
+
+#: inc/customizer-includes/featured-slider.php:51
+msgid "Transition Effect"
+msgstr "遷移効果"
+
+#: inc/customizer-includes/featured-slider.php:30
+msgid "Enable Slider on"
+msgstr "スライダーを有効化:"
+
+#: inc/customizer-includes/featured-slider.php:13
+msgid "Featured Slider"
+msgstr "おすすめスライダー"
+
+#: inc/customizer-includes/featured-content.php:291
+msgid "Attachment"
+msgstr "添付ファイル"
+
+#: inc/customizer-includes/featured-content.php:271
+msgid "Repeat"
+msgstr "繰り返し"
+
+#: inc/customizer-includes/featured-content.php:251
+msgid "Display Position"
+msgstr "表示位置"
+
+#: inc/customizer-includes/featured-content.php:231
+msgid "Select/Add Background Image"
+msgstr "背景画像を選択 / 追加"
+
+#: inc/customizer-includes/featured-content.php:221
+msgid "Featured Content Background Settings"
+msgstr "おすすめコンテンツの背景設定"
+
+#: inc/customizer-includes/featured-content.php:219
+msgid "Make sure Featured Content is enabled for these options to work"
+msgstr "これらの設定が動作するには、おすすめコンテンツが有効になっていることを確認してください"
+
+#: inc/customizer-includes/featured-content.php:211
+#: inc/customizer-includes/featured-slider.php:166
+#: inc/customizer-includes/portfolio.php:139
+msgid "Featured Page"
+msgstr "おすすめページ"
+
+#: inc/customizer-includes/featured-content.php:195
+#: inc/customizer-includes/header-highlight-content.php:105
+#: inc/customizer-includes/hero-content.php:106
+msgid "Display Content"
+msgstr "コンテンツを表示"
+
+#: inc/customizer-includes/featured-content.php:174
+#: inc/customizer-includes/hero-content.php:85
+msgid "Check to Enable Title"
+msgstr "タイトルを有効にする"
+
+#: inc/customizer-includes/featured-content.php:160
+msgid "No of Featured Content"
+msgstr "おすすめコンテンツの数"
+
+#: inc/customizer-includes/featured-content.php:153
+msgid "Save and refresh the page if No. of Featured Content is changed (Max no of Featured Content is 20)"
+msgstr "おすすめコンテンツの数 (最大数は20です) を変更した場合、保存した後にこのページを再読込してください。"
+
+#: inc/customizer-includes/featured-content.php:138
+msgid "Sub-headline for Featured Content"
+msgstr "おすすめコンテンツの小見出し"
+
+#: inc/customizer-includes/featured-content.php:137
+#: inc/customizer-includes/header-highlight-content.php:81
+#: inc/customizer-includes/portfolio.php:80
+msgid "Leave field empty if you want to remove Sub-headline"
+msgstr "小見出しを削除したい場合は、フィールドを空のままにしてください"
+
+#: inc/customizer-includes/featured-content.php:122
+msgid "Headline for Featured Content"
+msgstr "おすすめコンテンツの見出し"
+
+#: inc/customizer-includes/featured-content.php:121
+#: inc/customizer-includes/header-highlight-content.php:65
+#: inc/customizer-includes/portfolio.php:64
+msgid "Leave field empty if you want to remove Headline"
+msgstr "見出しを削除したい場合は、フィールドを空のままにしてください"
+
+#: inc/customizer-includes/featured-content.php:107
+#: inc/customizer-includes/header-highlight-content.php:51
+#: inc/customizer-includes/hero-content.php:50
+msgid "Select Content Type"
+msgstr "コンテンツタイプの選択"
+
+#: inc/customizer-includes/featured-content.php:86
+msgid "Check to Enable Slider"
+msgstr "スライダーを有効にする"
+
+#: inc/customizer-includes/featured-content.php:72
+msgid "Check to Move above Footer"
+msgstr "チェックしてフッターの上に移動"
+
+#: inc/customizer-includes/featured-content.php:58
+msgid "Select Featured Content Layout"
+msgstr "おすすめコンテンツのレイアウトを選択"
+
+#: inc/customizer-includes/featured-content.php:37
+msgid "Enable Featured Content on"
+msgstr "おすすめコンテンツを有効化"
+
+#: inc/customizer-includes/featured-content.php:14 inc/featured-content.php:53
+msgid "Featured Content"
+msgstr "おすすめコンテンツ"
+
+#: inc/customizer-includes/featured-content.php:12
+#: inc/customizer-includes/featured-content.php:20
+msgid "Featured Content Options"
+msgstr "おすすめコンテンツ設定"
+
+#: inc/customizer-includes/customizer.php:160
+msgid "Refresh the customizer page after saving to view reset effects"
+msgstr "保存した後にカスタマイザーページをリフレッシュして、リセットエフェクトを表示する"
+
+#: inc/customizer-includes/customizer.php:114
+#: inc/customizer-includes/customizer.php:125
+msgid "Important Links"
+msgstr "重要なリンク"
+
+#: inc/customizer-includes/customizer.php:103
+msgid "Check to reset all settings to default"
+msgstr "チェックしてすべての設定をリセット"
+
+#: inc/customizer-includes/customizer.php:92
+msgid "Reset all settings"
+msgstr "すべての設定をリセット"
+
+#: inc/customizer-includes/customizer.php:90
+msgid "Caution: Reset all settings to default. Refresh the page after save to view full effects."
+msgstr "警告: すべての設定をデフォルトにリセットします。全効果を表示するには保存後ページを再読み込みしてください。"
+
+#: inc/customizer-includes/customizer.php:51
+msgid "Check to move Site Title and Tagline before logo"
+msgstr "チェックしてサイトタイトルとキャッチフレーズをロゴの前に移動"
+
+#: inc/customizer-includes/customizer.php:34
+msgid "Check to Hide Site Description/Tagline"
+msgstr "サイトの説明 / キャッチフレーズを非表示にする"
+
+#: inc/customizer-includes/custom-controls.php:58
+msgid "Changelog"
+msgstr "変更履歴"
+
+#: inc/customizer-includes/custom-controls.php:54
+msgid "Support"
+msgstr "サポート"
+
+#: inc/customizer-includes/custom-controls.php:50
+msgid "Theme Instructions"
+msgstr "テーマの説明"
+
+#: inc/customizer-includes/color-options.php:40
+msgid "Footer Sidebar Area Background Image"
+msgstr "フッターサイドバーエリアの背景画像"
+
+#: inc/customizer-includes/color-options.php:26
+msgid "Color Scheme"
+msgstr "配色 "
+
+#: inc/core.php:1724
+msgctxt "Used before publish date."
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr "<span class=\"screen-reader-text\">投稿日</span>"
+
+#: inc/core.php:1648 inc/customizer-includes/custom-controls.php:37
+msgid "Hold down the Ctrl (windows) / Command (Mac) button to select multiple options."
+msgstr "複数のオプションを選択するには Ctrl (Windows) / Command (Mac) キーを押しながら選択してください。"
+
+#: inc/core.php:1606
+msgid "Previous post:"
+msgstr "前の記事:"
+
+#: inc/core.php:1605
+msgid "&larr; Previous"
+msgstr "&larr; 前へ"
+
+#: inc/core.php:1603
+msgid "Next post:"
+msgstr "次の記事:"
+
+#: inc/core.php:1602
+msgid "Next &rarr;"
+msgstr "次へ &rarr;"
+
+#: inc/core.php:1502
+msgid "By"
+msgstr "から"
+
+#: inc/core.php:1501
+msgid "Posted on"
+msgstr "投稿日"
+
+#: inc/core.php:1483
+msgid "Scroll Up"
+msgstr "上にスクロール"
+
+#: inc/core.php:854 inc/core.php:1703
+msgctxt "Used before tag names."
+msgid "<span class=\"screen-reader-text\">Tags</span>"
+msgstr "<span class=\"screen-reader-text\">タグ</span>"
+
+#: inc/core.php:846 inc/core.php:1693
+msgctxt "Used before category names."
+msgid "<span class=\"screen-reader-text\">Categories</span>"
+msgstr "<span class=\"screen-reader-text\">カテゴリー</span>"
+
+#: inc/core.php:843 inc/core.php:851 inc/core.php:1690 inc/core.php:1700
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr "、"
+
+#: inc/core.php:822
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: inc/core.php:822
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: inc/core.php:822
+msgid "Leave a comment"
+msgstr "コメントする"
+
+#: inc/core.php:814 inc/core.php:1733
+msgctxt "Used before post author name."
+msgid "<span class=\"screen-reader-text\">Author</span>"
+msgstr "<span class=\"screen-reader-text\">投稿者</span>"
+
+#: inc/core.php:807
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr "<span class=\"screen-reader-text\">投稿日</span>"
+
+#: inc/core.php:704
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: inc/core.php:697
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/core.php:691
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">のコメント:</span>"
+
+#: inc/core.php:681
+msgid "Pingback:"
+msgstr "ピンバック: "
+
+#: inc/core.php:654 inc/customizer-includes/header-highlight-content.php:142
+#: inc/customizer-includes/hero-content.php:121
+msgid "Page"
+msgstr "ページ"
+
+#: inc/core.php:653
+msgid "Next"
+msgstr "次へ"
+
+#: inc/core.php:652
+msgid "Previous"
+msgstr "前へ"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/core.php:178
+msgctxt "Open Sans: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/core.php:100
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: inc/core.php:99 inc/menus.php:24
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: inc/breadcrumb.php:211
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: inc/breadcrumb.php:108
+msgid "d"
+msgstr "d"
+
+#: inc/breadcrumb.php:107 inc/breadcrumb.php:113
+msgid "F"
+msgstr "F"
+
+#: inc/breadcrumb.php:107
+msgid "m"
+msgstr "m"
+
+#: inc/breadcrumb.php:106 inc/breadcrumb.php:107 inc/breadcrumb.php:112
+#: inc/breadcrumb.php:117 inc/default-options.php:934
+msgid "Y"
+msgstr "Y"
+
+#: inc/breadcrumb.php:50
+msgid "Error 404"
+msgstr "404 エラー"
+
+#: inc/breadcrumb.php:49
+msgid "%1$sView all posts by %2$s"
+msgstr "%1$sユーザーの投稿をすべて表示: %2$s"
+
+#: inc/breadcrumb.php:48
+msgid "%1$sPosts tagged %2$s"
+msgstr "%1$s以下のタグがついた投稿: %2$s"
+
+#: inc/breadcrumb.php:47
+msgid "%1$sSearch results for: %2$s"
+msgstr "%1$s検索結果: %2$s"
+
+#: inc/breadcrumb.php:46
+msgid "%1$s Archive for %2$s"
+msgstr "%2$s の %1$s アーカイブ"
+
+#: inc/breadcrumb.php:45
+msgid "Home"
+msgstr "ホーム"
+
+#: content-page.php:35 inc/core.php:681 inc/core.php:700 inc/core.php:826
+msgid "Edit"
+msgstr "編集"
+
+#: content-page.php:28 content-single.php:31 content.php:46
+msgid "Pages:"
+msgstr "ページ: "
+
+#: content-none.php:30 no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: content-none.php:25 no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: content-none.php:21 no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: comments.php:87
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:52 comments.php:77
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:51 comments.php:76
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: comments.php:50 comments.php:75
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: 404.php:27
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "何も見つかりませんでした。以下のリンクまたは検索をお試しください。"
+
+#: 404.php:23
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "このページは見つかりません。"
+
+#. Author URI of the plugin/theme
+msgid "https://catchthemes.com/"
+msgstr "https://catchthemes.com/"
+
+#. Author of the plugin/theme
+msgid "Catch Themes"
+msgstr "Catch Themes"

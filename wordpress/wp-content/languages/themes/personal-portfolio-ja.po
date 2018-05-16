@@ -1,0 +1,802 @@
+# Translation of Themes - Personal Portfolio in Japanese
+# This file is distributed under the same license as the Themes - Personal Portfolio package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-03 04:41:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Personal Portfolio\n"
+
+#. Theme Name of the plugin/theme
+msgid "Personal Portfolio"
+msgstr "Personal Portfolio"
+
+#: header.php:64
+msgid "Close"
+msgstr "閉じる"
+
+#: inc/options-config.php:162
+msgid "Button"
+msgstr "ボタン"
+
+#: inc/template-tags.php:231
+msgid "Next"
+msgstr "次へ"
+
+#: inc/template-tags.php:230
+msgid "Previous"
+msgstr "前へ"
+
+#: inc/options-config.php:948
+msgid "Custom CSS Styles"
+msgstr "カスタム CSS スタイル"
+
+#: inc/options-config.php:919
+msgid "Text"
+msgstr "テキスト"
+
+#: inc/options-config.php:892 inc/options-config.php:920
+#: inc/template-tags.php:285 inc/template-tags.php:290
+msgid "Hello, World!"
+msgstr "Hello, World!"
+
+#: inc/options-config.php:885
+msgid "Show Sitewide"
+msgstr "サイト全体を表示"
+
+#: inc/options-config.php:875
+msgid "Call to Action"
+msgstr "いますぐ登録！"
+
+#: inc/options-config.php:871
+msgid "Customers"
+msgstr "顧客(複数)"
+
+#: inc/options-config.php:867
+msgid "Testimonials"
+msgstr "推薦文"
+
+#: inc/options-config.php:860
+msgid "Submit label"
+msgstr "送信ラベル"
+
+#: inc/options-config.php:854
+msgid "Other Notes"
+msgstr "その他のお知らせ"
+
+#: inc/options-config.php:848
+msgid "Notes"
+msgstr "注記"
+
+#: inc/options-config.php:840
+msgid "Social Media"
+msgstr "ソーシャルメディア"
+
+#: inc/options-config.php:818
+msgid "Metadata"
+msgstr "メタデータ"
+
+#: inc/options-config.php:795
+msgid "Posts"
+msgstr "ポスト"
+
+#: inc/options-config.php:790
+msgid "Border color"
+msgstr "枠線色"
+
+#: inc/options-config.php:766 inc/options-config.php:910
+msgid "Custom Background"
+msgstr "カスタム背景"
+
+#: inc/options-config.php:755 inc/options-config.php:777
+#: inc/options-config.php:805
+msgid "Font Sizes"
+msgstr "フォントサイズ"
+
+#: inc/options-config.php:749 inc/options-config.php:771
+#: inc/options-config.php:799
+msgid "Font Family"
+msgstr "文字の種類"
+
+#: inc/options-config.php:743
+msgid "Pink"
+msgstr "ピンク"
+
+#: inc/options-config.php:742
+msgid "Silver"
+msgstr "銀色"
+
+#: inc/options-config.php:741
+msgid "Purple"
+msgstr "紫"
+
+#: inc/options-config.php:740
+msgid "Yellow"
+msgstr "黄色"
+
+#: inc/options-config.php:739
+msgid "Tan"
+msgstr "ベージュ"
+
+#: inc/options-config.php:737
+msgid "Brown"
+msgstr "茶色"
+
+#: inc/options-config.php:731
+msgid "Gray"
+msgstr "グレー"
+
+#: inc/options-config.php:715
+msgid "Styles"
+msgstr "スタイル"
+
+#: inc/options-config.php:707
+msgid "Tags"
+msgstr "タグ"
+
+#: inc/options-config.php:701
+msgid "Categories"
+msgstr "カテゴリー別"
+
+#: inc/options-config.php:695
+msgid "Display item author if available?"
+msgstr "もしあれば項目の作成者を表示しますか ?"
+
+#: inc/options-config.php:689
+msgid "Display post date?"
+msgstr "投稿日を表示しますか ?"
+
+#: inc/options-config.php:683
+msgid "Featured Image Header"
+msgstr "アイキャッチ画像ヘッダー"
+
+#: inc/options-config.php:673
+msgid "A search form for your site."
+msgstr "サイト内検索"
+
+#: inc/options-config.php:669
+msgid "Align Right"
+msgstr "右寄せ"
+
+#: inc/options-config.php:668
+msgid "Align Center"
+msgstr "中央揃え"
+
+#: inc/options-config.php:667
+msgid "Align Left"
+msgstr "左寄せ"
+
+#: inc/options-config.php:664
+msgid "Alignment"
+msgstr "配置"
+
+#: inc/options-config.php:664
+msgid "Logo"
+msgstr "ロゴ"
+
+#: inc/options-config.php:149 inc/options-config.php:636
+msgid "Summary"
+msgstr "概要"
+
+#: inc/options-config.php:635
+msgid "Full text"
+msgstr "全文を表示"
+
+#: inc/options-config.php:627
+msgid "Front page"
+msgstr "フロントページ"
+
+#: inc/options-config.php:611 inc/options-config.php:616
+#: inc/options-config.php:620 inc/options-config.php:795
+msgid "Content"
+msgstr "コンテント"
+
+#: inc/options-config.php:609 inc/options-config.php:613
+#: inc/options-config.php:617
+msgid "Three Columns"
+msgstr "3列"
+
+#: inc/options-config.php:607 inc/options-config.php:612
+#: inc/options-config.php:614 inc/options-config.php:619
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: inc/options-config.php:607 inc/options-config.php:608
+msgid "Two Columns"
+msgstr "2列"
+
+#: inc/options-config.php:606
+msgid "One Column"
+msgstr "1列"
+
+#: inc/options-config.php:604
+msgid "Asides"
+msgstr "アサイド"
+
+#: inc/options-config.php:604 inc/options-config.php:633
+msgid "Layout"
+msgstr "レイアウト"
+
+#: inc/options-config.php:596
+msgid "Display Settings"
+msgstr "表示設定"
+
+#: inc/options-config.php:589
+msgid "Map embed code"
+msgstr "マップの埋め込みコード"
+
+#: inc/options-config.php:563
+msgid "Footer"
+msgstr "フッター"
+
+#: inc/options-config.php:523 inc/options-config.php:535
+#: inc/options-config.php:547 inc/options-config.php:925
+msgid "Custom URL"
+msgstr "カスタム URL"
+
+#: inc/options-config.php:513
+msgid "Contact Info"
+msgstr "連絡先情報"
+
+#: inc/options-config.php:479
+msgid "Open link in a new window/tab"
+msgstr "新規ウインドウもしくはタブでリンクを開く"
+
+#: inc/options-config.php:474
+msgid "Enter the URL"
+msgstr "URL を入力してください"
+
+#: inc/options-config.php:437
+msgid "Size"
+msgstr "サイズ"
+
+#: inc/options-config.php:431
+msgid "Add social media icons in Footer"
+msgstr "フッターにソーシャルメディアアイコンを追加する"
+
+#: inc/options-config.php:425
+msgid "Add social media icons in Header"
+msgstr "ヘッダーにソーシャルメディアアイコンを追加する"
+
+#: inc/options-config.php:394 inc/options-config.php:396
+msgid "Overlays"
+msgstr "オーバーレイ"
+
+#: inc/options-config.php:365
+msgid "Author"
+msgstr "登録者"
+
+#: inc/options-config.php:363
+msgid "Matt Mullenweg"
+msgstr "Matt Mullenweg"
+
+#: inc/options-config.php:270 inc/options-config.php:736
+msgid "White"
+msgstr "白"
+
+#: inc/options-config.php:270 inc/options-config.php:735
+msgid "Black"
+msgstr "黒"
+
+#: inc/options-config.php:149 inc/options-config.php:162
+#: inc/options-config.php:240 inc/options-config.php:246
+#: inc/options-config.php:252 inc/options-config.php:311
+#: inc/options-config.php:365 inc/options-config.php:371
+msgid "Optional"
+msgstr "(オプション)"
+
+#: inc/options-config.php:186 inc/options-config.php:932
+msgid "Background color"
+msgstr "背景色"
+
+#: inc/options-config.php:168 inc/options-config.php:232
+#: inc/options-config.php:357
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#: inc/options-config.php:156 inc/options-config.php:252
+#: inc/options-config.php:311 inc/options-config.php:371
+#: inc/options-config.php:456
+msgid "Custom Link"
+msgstr "カスタムリンク"
+
+#: inc/options-config.php:142 inc/options-config.php:168
+#: inc/options-config.php:232 inc/options-config.php:357
+msgid "(required)"
+msgstr "必須"
+
+#: inc/options-config.php:142 inc/options-config.php:232
+#: inc/options-config.php:357
+msgid "Select Page"
+msgstr "固定ページを選択"
+
+#: inc/options-config.php:127 inc/options-config.php:444
+msgid "Hide"
+msgstr "非表示"
+
+#: inc/options-config.php:117 inc/options-config.php:180
+#: inc/options-config.php:573 inc/options-config.php:579
+#: inc/options-config.php:784 inc/options-config.php:812
+#: inc/options-config.php:904
+msgid "Text color"
+msgstr "テキスト色"
+
+#: inc/options-config.php:32
+msgid "Animation speed"
+msgstr "アニメーションの速度"
+
+#: inc/options-config.php:25
+msgid "Effect"
+msgstr "エフェクト"
+
+#: inc/admin/custom-controls.php:115
+msgid "More Themes"
+msgstr "テーマをもっと見る"
+
+#: inc/admin/custom-controls.php:13
+msgid "Select Color"
+msgstr "色を選択"
+
+#: functions.php:135
+msgid "Left"
+msgstr "左"
+
+#: functions.php:121
+msgid "Right"
+msgstr "右"
+
+#: comments.php:82
+msgid "Your email address will not be published."
+msgstr "あなたのメールアドレスは公開されません。"
+
+#: comments.php:27 inc/options-config.php:844
+msgid "Comments"
+msgstr "コメント"
+
+#. Template Name of the plugin/theme
+msgid "Only Content"
+msgstr "コンテンツのみ"
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar"
+msgstr "サイドバーなし"
+
+#. #-#-#-#-#  personal-portfolio.pot (Personal Portfolio 1.07)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: inc/options-config.php:608 inc/options-config.php:610
+#: inc/options-config.php:615 inc/options-config.php:618
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: inc/options-config.php:938
+msgid "Advanced Options"
+msgstr "拡張オプション"
+
+#: inc/options-config.php:729
+msgid "Base Color Scheme"
+msgstr "ベース配色"
+
+#: inc/options-config.php:659
+msgid "Logo Upload"
+msgstr "ロゴのアップロード"
+
+#: inc/options-config.php:43 inc/options-config.php:387
+msgid "Speed"
+msgstr "速度"
+
+#: inc/options-config.php:541 inc/options-config.php:547
+msgid "Phone"
+msgstr "電話番号"
+
+#: inc/admin/custom-controls.php:113
+msgid "Documentation"
+msgstr "文書"
+
+#: inc/admin/custom-controls.php:111
+msgid "Reviews"
+msgstr "レビュー"
+
+#: inc/admin/custom-controls.php:111
+msgid "Feedback"
+msgstr "フィードバック"
+
+#: inc/admin/custom-controls.php:109
+msgid "Support Forums"
+msgstr "サポートフォーラム"
+
+#: inc/admin/custom-controls.php:107
+msgid "Donate"
+msgstr "寄付について"
+
+#: inc/options-config.php:955
+msgid "Upgrade"
+msgstr "アップグレード"
+
+#. translators: %s: Name of current post
+#: content-blog.php:29 content.php:28 inc/options-config.php:648
+#: inc/options-config.php:649
+msgid "Read more..."
+msgstr "続きを読む..."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: inc/options-config.php:628 searchform.php:9
+msgid "Search"
+msgstr "検索"
+
+#: searchform.php:8
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "検索 &hellip;"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: inc/template-tags.php:312
+msgid "Personal Portfolio WordPress Theme"
+msgstr "パーソナルポートフォリオ WordPress テーマ"
+
+#: inc/template-tags.php:311
+msgid "%1$s by %2$s."
+msgstr "%1$s by %2$s。"
+
+#: inc/template-tags.php:308
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: inc/template-tags.php:306
+msgid "Copyright &copy; %1$d %2$s."
+msgstr "Copyright &copy; %1$d %2$s."
+
+#: inc/template-tags.php:254
+msgid "Newer posts"
+msgstr "新しい投稿"
+
+#: inc/template-tags.php:250
+msgid "Older posts"
+msgstr "過去の投稿"
+
+#: inc/template-tags.php:244
+msgid "Page"
+msgstr "ページ"
+
+#: inc/template-tags.php:213
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: inc/template-tags.php:209
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%2$s%1$s"
+
+#: inc/template-tags.php:197
+msgid "Pingback:"
+msgstr "ピンバック:"
+
+#: inc/options-config.php:629 inc/template-tags.php:111
+msgid "Archives"
+msgstr "アーカイブ"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:109
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:105
+msgid "Archives: %s"
+msgstr "アーカイブ: %s"
+
+#: inc/template-tags.php:102
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "チャット"
+
+#: inc/template-tags.php:100
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "音声"
+
+#: inc/template-tags.php:98
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "ステータス"
+
+#: inc/template-tags.php:96
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "リンク"
+
+#: inc/template-tags.php:94
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "引用"
+
+#: inc/template-tags.php:92
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "動画"
+
+#: inc/template-tags.php:90
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "画像"
+
+#: inc/template-tags.php:88
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "ギャラリー"
+
+#: inc/template-tags.php:86
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "アサイド"
+
+#: inc/template-tags.php:83
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: inc/template-tags.php:83
+msgid "Day: %s"
+msgstr "日別: %s"
+
+#: inc/template-tags.php:81
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: inc/template-tags.php:81
+msgid "Month: %s"
+msgstr "月別: %s"
+
+#: inc/template-tags.php:79
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: inc/template-tags.php:79
+msgid "Year: %s"
+msgstr "年別: %s"
+
+#: inc/template-tags.php:77
+msgid "Author: %s"
+msgstr "作者別: %s"
+
+#: inc/template-tags.php:75
+msgid "Tag: %s"
+msgstr "タグ: %s"
+
+#: inc/template-tags.php:73
+msgid "Category: %s"
+msgstr "カテゴリー: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:56 inc/template-tags.php:62
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:48
+msgid "Featured"
+msgstr "注目"
+
+#: inc/template-tags.php:37
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: inc/template-tags.php:37
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: inc/template-tags.php:37
+msgid "Leave a comment"
+msgstr "コメントする"
+
+#: inc/options-config.php:836
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/options-config.php:832
+msgid "Projects Section"
+msgstr "プロジェクトセクション"
+
+#: inc/options-config.php:828
+msgid "Services Section"
+msgstr "サービスセクション"
+
+#: inc/options-config.php:738
+msgid "Orange"
+msgstr "オレンジ"
+
+#: inc/options-config.php:734
+msgid "Blue"
+msgstr "青"
+
+#: inc/options-config.php:733
+msgid "Green"
+msgstr "緑"
+
+#: inc/options-config.php:732
+msgid "Red"
+msgstr "赤"
+
+#: inc/options-config.php:723
+msgid "Primary Color"
+msgstr "プライマリーの色"
+
+#: inc/options-config.php:517 inc/options-config.php:523
+msgid "Address"
+msgstr "アドレス"
+
+#: inc/options-config.php:557
+msgid "Header"
+msgstr "ヘッダー"
+
+#: inc/options-config.php:509 inc/options-config.php:510
+msgid "Personal Portfolio Theme Options"
+msgstr "パーソナルポートフォリオのテーマ設定"
+
+#: inc/options-config.php:175 inc/options-config.php:493
+msgid "Color"
+msgstr "色"
+
+#: inc/options-config.php:168 inc/options-config.php:486
+msgid "Icon"
+msgstr "アイコン"
+
+#: inc/options-config.php:137
+msgid "Service"
+msgstr "サービス"
+
+#: inc/options-config.php:80 inc/options-config.php:305
+#: inc/options-config.php:412
+msgid "Image"
+msgstr "画像"
+
+#: inc/options-config.php:74 inc/options-config.php:915
+msgid "Link"
+msgstr "リンク"
+
+#: inc/options-config.php:68 inc/options-config.php:111
+#: inc/options-config.php:210 inc/options-config.php:246
+#: inc/options-config.php:282 inc/options-config.php:335
+#: inc/options-config.php:468 inc/options-config.php:897
+msgid "Description"
+msgstr "説明"
+
+#: inc/options-config.php:62 inc/options-config.php:105
+#: inc/options-config.php:204 inc/options-config.php:240
+#: inc/options-config.php:276 inc/options-config.php:329
+#: inc/options-config.php:460 inc/options-config.php:462
+#: inc/options-config.php:891
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/options-config.php:57 inc/options-config.php:824
+msgid "Slider"
+msgstr "スライダー"
+
+#: inc/options-config.php:18 inc/options-config.php:98
+#: inc/options-config.php:216 inc/options-config.php:288
+#: inc/options-config.php:341
+msgid "Quantity"
+msgstr "数量"
+
+#: inc/options-config.php:12 inc/options-config.php:92
+#: inc/options-config.php:198 inc/options-config.php:264
+#: inc/options-config.php:323 inc/options-config.php:381
+#: inc/options-config.php:879
+msgid "Enable this section"
+msgstr "このセクションを有効にする"
+
+#: inc/extras.php:53
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: inc/admin/class.customizer-api-wrapper.php:88
+msgid "Upgrade to Pro"
+msgstr "プロ版へアップグレード"
+
+#: inc/admin/custom-controls.php:105
+msgid "Upgrade Now"
+msgstr "いますぐアップグレード"
+
+#: header.php:62
+msgid "Menu"
+msgstr "メニュー"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: functions.php:121 functions.php:135
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: content-page-nontitle.php:14 content-page.php:24 content-single.php:27
+#: content.php:35 image.php:69
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#: content-page.php:16 inc/template-tags.php:33 inc/template-tags.php:197
+#: inc/template-tags.php:210
+msgid "Edit"
+msgstr "編集"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか？<a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "見つかりませんでした"
+
+#: comments.php:86
+msgid "Cancel reply"
+msgstr "コメントをキャンセル"
+
+#: comments.php:87 inc/options-config.php:861
+msgid "Post Comment"
+msgstr "コメントを送信"
+
+#: comments.php:78
+msgid "Website"
+msgstr "Web サイト"
+
+#: comments.php:77 inc/options-config.php:529 inc/options-config.php:535
+msgid "Email"
+msgstr "メール"
+
+#: comments.php:76
+msgid "Name"
+msgstr "名前"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#: comments.php:34 comments.php:54
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:33 comments.php:53
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:31 comments.php:50
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "﻿ページが見つかりません。"
+
+#. Author URI of the plugin/theme
+msgid "http://dinozoom.com/"
+msgstr "http://dinozoom.com/"
+
+#. Author of the plugin/theme
+msgid "Dinozoom"
+msgstr "Dinozoom"
+
+#. Theme URI of the plugin/theme
+msgid "http://dinozoom.com/themes/personal-portfolio-wordpress-themes/"
+msgstr "http://dinozoom.com/themes/personal-portfolio-wordpress-themes/"

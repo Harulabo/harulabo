@@ -1,0 +1,327 @@
+# Translation of Themes - fBlogging in Japanese
+# This file is distributed under the same license as the Themes - fBlogging package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-14 10:54:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - fBlogging\n"
+
+#. Theme Name of the plugin/theme
+msgid "fBlogging"
+msgstr "fBlogging"
+
+#. Template Name of the plugin/theme
+msgid "No Sidebars Page"
+msgstr "サイドバーなしページ"
+
+#: single.php:41
+msgid "Next Post: %title"
+msgstr "次の記事: %title"
+
+#: single.php:40
+msgid "Previous Post: %title"
+msgstr "前の記事: %title"
+
+#: sidebar-footer.php:74
+msgid "Footer Col Widget 3"
+msgstr "フッターカラムウィジェット3"
+
+#: sidebar-footer.php:50
+msgid "Footer Col Widget 2"
+msgstr "フッターカラムウィジェット2"
+
+#: sidebar-footer.php:26
+msgid "Footer Col Widget 1"
+msgstr "フッターカラムウィジェット1"
+
+#: functions.php:455
+msgid "Footer Column #3"
+msgstr "フッターカラム #3"
+
+#: functions.php:444
+msgid "Footer Column #2"
+msgstr "フッターカラム #2"
+
+#: functions.php:433
+msgid "Footer Column #1"
+msgstr "フッターカラム #1"
+
+#: customize-pro/class-customize.php:149
+msgid "Upgrade to Pro"
+msgstr "プロ版にアップグレード"
+
+#: functions.php:457
+msgid "The Footer Column #3 widget area"
+msgstr "フッターカラム #3 ウィジェットエリア"
+
+#: functions.php:446
+msgid "The Footer Column #2 widget area"
+msgstr "フッターカラム #2 ウィジェットエリア"
+
+#: functions.php:435
+msgid "The Footer Column #1 widget area"
+msgstr "フッターカラム #1 ウィジェットエリア"
+
+#: customize-pro/class-customize.php:148
+msgid "tBlogging"
+msgstr "tBlogging"
+
+#: functions.php:581
+msgid "Follow us on Vine"
+msgstr "Vine でフォローする"
+
+#: functions.php:579
+msgid "Follow us on Flickr"
+msgstr "Flickr でフォローする"
+
+#: functions.php:577
+msgid "Follow us on VK"
+msgstr "VK でフォローする"
+
+#: functions.php:575
+msgid "Follow us on Pinterest"
+msgstr "Pinterest でフォローする"
+
+#: functions.php:573
+msgid "Follow us on Youtube"
+msgstr "Youtube でフォローする"
+
+#: functions.php:571
+msgid "Follow us on Tumblr"
+msgstr "Tumblr でフォローする"
+
+#: functions.php:569
+msgid "Follow our RSS Feeds"
+msgstr "RSS フィードをフォローする"
+
+#: functions.php:567
+msgid "Follow us on Instagram"
+msgstr "Instagram でフォローする"
+
+#: functions.php:565
+msgid "Follow us on LinkedIn"
+msgstr "LinkedIn でフォローする"
+
+#: functions.php:563
+msgid "Follow us on Twitter"
+msgstr "Twitter でフォローする"
+
+#: functions.php:561
+msgid "Follow us on Google+"
+msgstr "Google+ でフォローする"
+
+#: functions.php:559
+msgid "Follow us on Facebook"
+msgstr "Facebook でフォローする"
+
+#: functions.php:184
+msgid "Vine"
+msgstr "Vine"
+
+#: functions.php:180
+msgid "Flickr"
+msgstr "Flickr"
+
+#: functions.php:176
+msgid "VK"
+msgstr "VK"
+
+#: functions.php:172
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: functions.php:168
+msgid "YouTube channel URL"
+msgstr "YouTube channel URL"
+
+#: functions.php:164
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: functions.php:160
+msgid "RSS Feeds URL"
+msgstr "RSS フィード URL"
+
+#: functions.php:156
+msgid "Instagram"
+msgstr "Instagram"
+
+#: functions.php:152
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: functions.php:148
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: functions.php:144
+msgid "Google+ Page URL"
+msgstr "Google+ ページ URL"
+
+#: functions.php:140
+msgid "Facebook Page URL"
+msgstr "Facebook ページ URL"
+
+#: functions.php:133
+msgid "Social Sites"
+msgstr "ソーシャルサイト"
+
+#: functions.php:68
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: template-parts/content.php:100
+msgid "Categories:"
+msgstr "カテゴリー: "
+
+#: template-parts/content-page.php:35 template-parts/content.php:54
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: template-parts/content-page.php:35 template-parts/content.php:54
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: template-parts/content-page.php:35 template-parts/content.php:54
+msgid "No Comments"
+msgstr "コメントはまだありません"
+
+#: template-parts/content-page.php:24 template-parts/content.php:73
+msgid "Read More..."
+msgstr "続きを読む..."
+
+#: template-parts/content-none.php:21
+msgid "No Results Found!"
+msgstr "一致する結果が見つかりません"
+
+#: searchform.php:19
+msgid "Search..."
+msgstr "検索…"
+
+#: functions.php:289
+msgid "Copyright Text"
+msgstr "著作権テキスト"
+
+#: functions.php:273
+msgid "Footer"
+msgstr "フッター"
+
+#: functions.php:192
+msgid "Slider"
+msgstr "スライダー"
+
+#: functions.php:424
+msgid "The sidebar widget area"
+msgstr "サイドバーウィジェットエリア"
+
+#. Translators: If there are characters in your language that are not supported
+#. by PT Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:361
+msgctxt "PT Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:67
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: footer.php:35 footer.php:36
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:35
+msgid "powered by"
+msgstr "Powered by "
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:69 template-parts/content-page.php:35
+#: template-parts/content.php:54
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: template-parts/content.php:88
+msgid "Read More"
+msgstr "続きを読む"
+
+#: template-parts/content-none.php:17
+msgid "Oh no! Article not found! 404 error!"
+msgstr "記事が見つかりません ! 404エラー"
+
+#: template-parts/content-page.php:40 template-parts/content.php:59
+msgid "Edit"
+msgstr "編集する"
+
+#: template-parts/content-none.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: footer.php:35
+msgid "fBlogging Theme"
+msgstr "fBlogging Theme"
+
+#: footer.php:34
+msgid "fblogging Theme"
+msgstr "fblogging Theme"
+
+#: functions.php:208
+msgid "Display Slider"
+msgstr "スライダーを表示"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "そのページは見つかりませんでした。"
+
+#: functions.php:422
+msgid "Sidebar Widget Area"
+msgstr "サイドバー・ウィジェットエリア"
+
+#: functions.php:499
+msgid "Next"
+msgstr "次へ"
+
+#: functions.php:500
+msgid "Previous"
+msgstr "前へ"
+
+#: single.php:32
+msgid "Pages:"
+msgstr "ページ: "
+
+#: functions.php:260
+msgid "Slide 3 Image"
+msgstr "スライド 3 画像"
+
+#: functions.php:243
+msgid "Slide 2 Image"
+msgstr "スライド 2 画像"
+
+#: functions.php:226
+msgid "Slide 1 Image"
+msgstr "スライド 1 画像"
+
+#. translators: %s: search query
+#: search.php:20
+msgid "You searched for \"%s\". Here are the results:"
+msgstr "「%s」を検索しました。結果は次の通り: "
+
+#. Author URI of the plugin/theme
+msgid "https://tishonator.com"
+msgstr "https://tishonator.com"
+
+#. Author of the plugin/theme
+msgid "tishonator"
+msgstr "tishonator"
+
+#. Theme URI of the plugin/theme
+msgid "https://tishonator.com/product/fblogging"
+msgstr "https://tishonator.com/product/fblogging"

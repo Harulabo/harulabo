@@ -1,0 +1,989 @@
+# Translation of Themes - Magazine News in Japanese
+# This file is distributed under the same license as the Themes - Magazine News package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-13 09:13:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Magazine News\n"
+
+#. Description of the plugin/theme
+msgid "Magazine News is a modern responsive WordPress theme. The theme has clean and elegant design. The theme is SEO friendly, Cross browser compatible, fully translation ready and is compatible with WooCommerce and all other major plugins. The Magazine News theme is excellent for a news, newspaper, magazine, publishing or other editorial websites. Amazing scroll animations and free Kirki options - Custom CSS, Sidebar Aniamtions, All Google Fonts, Disable All Comments, Mobile call now. To learn more about the theme please go to the theme uri and read the documentation. https://seosthemes.com/magazine-news/"
+msgstr "Magazine News は、現代的なレスポンシブデザインの WordPress テーマで、クリーンかつエレガントなデザインです。SEO フレンドリーで、クロスブラウザー互換性があり、完全翻訳対応。WooCommerce 他の主要なプラグインと互換性があります。 Magazine News テーマは、ニュース、新聞、雑誌、出版などのエディトリアル系サイトに最適です。すばらしいスクロールアニメーションと無料の Kirki オプション (カスタム CSS、サイドバーアニメーション、すべての Google フォント、全コメント無効化、モバイルでの「今すぐ電話」機能) が含まれます。テーマの詳細については、テーマ URI にアクセスしてドキュメントをお読みください。https://seosthemes.com/magazine-news/"
+
+#. Theme Name of the plugin/theme
+msgid "Magazine News"
+msgstr "Magazine News"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; への%1$s件の返信"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; への1件の返信"
+
+#: inc/customize/customize-kirki.php:360
+msgid "Read More Length"
+msgstr "「続きを読む」の長さ"
+
+#: inc/customize/customize-kirki.php:348
+msgid "Read More"
+msgstr "続きを読む"
+
+#: inc/customize/customize-kirki.php:346
+msgid "Read More Text"
+msgstr "「続きを読む」テキスト"
+
+#: inc/customize/customize-kirki.php:329
+msgid "Activate Read more Button"
+msgstr "「続きを読む」ボタンを有効化"
+
+#: inc/customize/customize-kirki.php:315
+msgid "Read More Button"
+msgstr "「続きを読む」ボタン"
+
+#: inc/kirki/includes/class-kirki-l10n.php:213
+msgid "Hex Value"
+msgstr "16進値"
+
+#: inc/kirki/includes/class-kirki-l10n.php:212
+msgid "Switch Editor"
+msgstr "エディターの切り替え"
+
+#: inc/kirki/includes/class-kirki-l10n.php:211
+msgid "Close Editor"
+msgstr "エディターを閉じる"
+
+#: inc/kirki/includes/class-kirki-l10n.php:210
+msgid "Open Editor"
+msgstr "エディターを開く"
+
+#: inc/kirki/includes/class-kirki-l10n.php:209
+msgid "Select a Page"
+msgstr "ページを選択"
+
+#: inc/kirki/includes/class-kirki-l10n.php:208
+msgid "Initial"
+msgstr "初期設定"
+
+#: inc/kirki/includes/class-kirki-l10n.php:207
+msgid "Lowercase"
+msgstr "小文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:206
+msgid "Uppercase"
+msgstr "大文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:205
+msgid "Capitalize"
+msgstr "先頭大文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:203
+msgid "Text Transform"
+msgstr "テキスト変換"
+
+#: inc/kirki/includes/class-kirki-l10n.php:202
+msgid "Text Align"
+msgstr "テキストの整列"
+
+#: inc/kirki/includes/class-kirki-l10n.php:201
+msgid "%s Reset"
+msgstr "%s リセット"
+
+#: inc/kirki/includes/class-kirki-l10n.php:200
+#: inc/kirki/includes/sections/class-kirki-sections-hover-section.php:46
+msgid "Back"
+msgstr "戻る"
+
+#: inc/kirki/includes/class-kirki-l10n.php:199
+#: inc/kirki/includes/sections/class-kirki-sections-hover-section.php:40
+msgid "Press return or enter to open this section"
+msgstr "このセクションを開くには Return または Enter キーを押してください"
+
+#: inc/kirki/includes/class-kirki-l10n.php:198
+msgid "Limit: %s rows"
+msgstr "上限: %s行"
+
+#: inc/kirki/includes/class-kirki-l10n.php:197
+msgid "row"
+msgstr "行"
+
+#: inc/kirki/includes/class-kirki-l10n.php:196
+msgid "Add new"
+msgstr "新規追加"
+
+#: inc/kirki/includes/class-kirki-l10n.php:195
+msgid "Invalid Value"
+msgstr "無効な値"
+
+#: inc/kirki/includes/class-kirki-l10n.php:194
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:193
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: inc/kirki/includes/class-kirki-l10n.php:192
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:191
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: inc/kirki/includes/class-kirki-l10n.php:190
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:189
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: inc/kirki/includes/class-kirki-l10n.php:188
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:187
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: inc/kirki/includes/class-kirki-l10n.php:186
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:185
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: inc/kirki/includes/class-kirki-l10n.php:184
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:183
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/kirki/includes/class-kirki-l10n.php:182
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:181
+msgid "Book 300"
+msgstr "Book 300"
+
+#: inc/kirki/includes/class-kirki-l10n.php:180
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:179
+msgid "Light 200"
+msgstr "Light 200"
+
+#: inc/kirki/includes/class-kirki-l10n.php:178
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: inc/kirki/includes/class-kirki-l10n.php:177
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: inc/kirki/includes/class-kirki-l10n.php:176
+msgid "Spacing"
+msgstr "スペース"
+
+#: inc/kirki/includes/class-kirki-l10n.php:175
+msgid "Height"
+msgstr "高さ"
+
+#: inc/kirki/includes/class-kirki-l10n.php:174
+msgid "Size"
+msgstr "サイズ"
+
+#: inc/kirki/includes/class-kirki-l10n.php:173
+msgid "Subset"
+msgstr "サブセット"
+
+#: inc/kirki/includes/class-kirki-l10n.php:172
+msgid "Variant"
+msgstr "変形"
+
+#: inc/kirki/includes/class-kirki-l10n.php:171
+msgid "Select a font-family"
+msgstr "フォントファミリーを選択"
+
+#: inc/kirki/includes/class-kirki-l10n.php:170
+msgid "Remove"
+msgstr "削除"
+
+#: inc/kirki/includes/class-kirki-l10n.php:169
+msgid "No File Selected"
+msgstr "ファイルが選択されていません"
+
+#: inc/kirki/includes/class-kirki-l10n.php:168
+msgid "Change File"
+msgstr "ファイルを変更"
+
+#: inc/kirki/includes/class-kirki-l10n.php:167
+msgid "Add File"
+msgstr "ファイルを追加"
+
+#: inc/kirki/includes/class-kirki-l10n.php:166
+msgid "No Image Selected"
+msgstr "画像が選択されていません"
+
+#: inc/kirki/includes/class-kirki-l10n.php:165
+msgid "Change Image"
+msgstr "画像の変更"
+
+#: inc/kirki/includes/class-kirki-l10n.php:164
+msgid "Add Image"
+msgstr "画像を追加"
+
+#: inc/kirki/includes/class-kirki-l10n.php:163
+msgid "Color"
+msgstr "色"
+
+#: inc/kirki/includes/class-kirki-l10n.php:162
+msgid "Justify"
+msgstr "両端揃え"
+
+#: inc/kirki/includes/class-kirki-l10n.php:161
+msgid "Center"
+msgstr "中央"
+
+#: inc/kirki/includes/class-kirki-l10n.php:160
+msgid "Right"
+msgstr "右"
+
+#: inc/kirki/includes/class-kirki-l10n.php:159
+msgid "Left"
+msgstr "左"
+
+#: inc/kirki/includes/class-kirki-l10n.php:158
+msgid "Bottom"
+msgstr "下"
+
+#: inc/kirki/includes/class-kirki-l10n.php:157
+msgid "Top"
+msgstr "上"
+
+#: inc/kirki/includes/class-kirki-l10n.php:156
+msgid "Letter Spacing"
+msgstr "文字間隔"
+
+#: inc/kirki/includes/class-kirki-l10n.php:155
+msgid "Font Style"
+msgstr "フォントスタイル"
+
+#: inc/kirki/includes/class-kirki-l10n.php:154
+msgid "Line Height"
+msgstr "行の高さ"
+
+#: inc/kirki/includes/class-kirki-l10n.php:153
+msgid "Font Weight"
+msgstr "フォントの太さ"
+
+#: inc/kirki/includes/class-kirki-l10n.php:152
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+#: inc/kirki/includes/class-kirki-l10n.php:151
+msgid "Font Family"
+msgstr "フォントファミリー"
+
+#: inc/kirki/includes/class-kirki-l10n.php:150
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: inc/kirki/includes/class-kirki-l10n.php:149
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "サンセリフ体"
+
+#: inc/kirki/includes/class-kirki-l10n.php:148
+msgctxt "font style"
+msgid "Serif"
+msgstr "セリフ体"
+
+#: inc/kirki/includes/class-kirki-l10n.php:147
+msgid "Thai"
+msgstr "タイ文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:146
+msgid "Telugu"
+msgstr "テルグ文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:145
+msgid "Tamil"
+msgstr "タミル文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:144
+msgid "Gujarati"
+msgstr "グジャラート文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:143
+msgid "Bengali"
+msgstr "ベンガル文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:142
+msgid "Arabic"
+msgstr "アラビア文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:141
+msgid "Hebrew"
+msgstr "ヘブライ文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:140
+msgid "Vietnamese"
+msgstr "ベトナム文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:139
+msgid "Latin Extended"
+msgstr "拡張ラテン文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:138
+msgid "Latin"
+msgstr "ラテン文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:137
+msgid "Khmer"
+msgstr "クメール文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:136
+msgid "Greek Extended"
+msgstr "拡張ギリシャ文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:135
+msgid "Greek"
+msgstr "ギリシア文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:134
+msgid "Devanagari"
+msgstr "デバナーガリ文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:133
+msgid "Cyrillic Extended"
+msgstr "拡張キリル文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:132
+msgid "Cyrillic"
+msgstr "キリル文字"
+
+#: inc/kirki/includes/class-kirki-l10n.php:131
+msgid "All"
+msgstr "すべて"
+
+#: inc/kirki/includes/class-kirki-l10n.php:130
+msgid "OFF"
+msgstr "オフ"
+
+#: inc/kirki/includes/class-kirki-l10n.php:129
+msgid "ON"
+msgstr "オン"
+
+#: inc/kirki/includes/class-kirki-l10n.php:128
+msgid "Background Opacity"
+msgstr "背景の透明度"
+
+#: inc/kirki/includes/class-kirki-l10n.php:127
+msgid "Background Position"
+msgstr "背景の位置"
+
+#: inc/kirki/includes/class-kirki-l10n.php:126
+msgid "Center Bottom"
+msgstr "中央下"
+
+#: inc/kirki/includes/class-kirki-l10n.php:125
+msgid "Center Center"
+msgstr "中央"
+
+#: inc/kirki/includes/class-kirki-l10n.php:124
+msgid "Center Top"
+msgstr "中央上"
+
+#: inc/kirki/includes/class-kirki-l10n.php:123
+msgid "Right Bottom"
+msgstr "右下"
+
+#: inc/kirki/includes/class-kirki-l10n.php:122
+msgid "Right Center"
+msgstr "右中央"
+
+#: inc/kirki/includes/class-kirki-l10n.php:121
+msgid "Right Top"
+msgstr "右上"
+
+#: inc/kirki/includes/class-kirki-l10n.php:120
+msgid "Left Bottom"
+msgstr "左下"
+
+#: inc/kirki/includes/class-kirki-l10n.php:119
+msgid "Left Center"
+msgstr "左中央"
+
+#: inc/kirki/includes/class-kirki-l10n.php:118
+msgid "Left Top"
+msgstr "左上"
+
+#: inc/kirki/includes/class-kirki-l10n.php:117
+msgid "Background Attachment"
+msgstr "背景スクロール"
+
+#: inc/kirki/includes/class-kirki-l10n.php:116
+msgid "Scroll"
+msgstr "スクロール"
+
+#: inc/kirki/includes/class-kirki-l10n.php:115
+msgid "Fixed"
+msgstr "固定"
+
+#: inc/kirki/includes/class-kirki-l10n.php:114
+msgid "Background Size"
+msgstr "背景のサイズ"
+
+#: inc/kirki/includes/class-kirki-l10n.php:113
+msgid "Contain"
+msgstr "画像全体を表示"
+
+#: inc/kirki/includes/class-kirki-l10n.php:112
+msgid "Cover"
+msgstr "カバー"
+
+#: inc/kirki/includes/class-kirki-l10n.php:111
+msgid "Background Repeat"
+msgstr "背景の繰り返し"
+
+#: inc/kirki/includes/class-kirki-l10n.php:110
+msgid "Inherit"
+msgstr "継承"
+
+#: inc/kirki/includes/class-kirki-l10n.php:109
+msgid "Repeat Vertically"
+msgstr "タテに繰り返し"
+
+#: inc/kirki/includes/class-kirki-l10n.php:108
+msgid "Repeat Horizontally"
+msgstr "ヨコに繰り返し"
+
+#: inc/kirki/includes/class-kirki-l10n.php:107
+msgid "Repeat All"
+msgstr "すべて繰り返し"
+
+#: inc/kirki/includes/class-kirki-l10n.php:106
+msgid "No Repeat"
+msgstr "繰り返しなし"
+
+#: inc/kirki/includes/class-kirki-l10n.php:105
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/kirki/includes/class-kirki-l10n.php:104
+msgid "Background Color"
+msgstr "背景色"
+
+#: inc/customize/customize-kirki.php:304
+msgid "Phone Number"
+msgstr "電話番号"
+
+#: inc/customize/customize-kirki.php:289
+msgid "Mobile Call Now"
+msgstr "モバイル通話"
+
+#: inc/customize/customize-kirki.php:279
+msgid "H6 Element"
+msgstr "H6 要素"
+
+#: inc/customize/customize-kirki.php:267
+msgid "H5 Element"
+msgstr "H5 要素"
+
+#: inc/customize/customize-kirki.php:255
+msgid "H4 Element"
+msgstr "H4 要素"
+
+#: inc/customize/customize-kirki.php:243
+msgid "H3 Element"
+msgstr "H3 要素"
+
+#: inc/customize/customize-kirki.php:231
+msgid "H2 Element"
+msgstr "H2 要素"
+
+#: inc/customize/customize-kirki.php:219
+msgid "H1 Element"
+msgstr "H1 要素"
+
+#: inc/customize/customize-kirki.php:206
+msgid "Site Title"
+msgstr "サイトタイトル"
+
+#: inc/customize/customize-kirki.php:192
+msgid "Copy and Paste the Font Name"
+msgstr "フォント名のコピーと貼り付け"
+
+#: inc/customize/customize-kirki.php:191
+msgid "All Google Fonts"
+msgstr "すべての Google フォント"
+
+#: inc/customize/customize-kirki.php:182
+msgid "zoomInUp"
+msgstr "ズームイン上"
+
+#: inc/customize/customize-kirki.php:181
+msgid "zoomInRight"
+msgstr "ズームイン右"
+
+#: inc/customize/customize-kirki.php:180
+msgid "zoomInLeft"
+msgstr "ズームイン左"
+
+#: inc/customize/customize-kirki.php:179
+msgid "zoomInDown"
+msgstr "ズームダウン下"
+
+#: inc/customize/customize-kirki.php:178
+msgid "zoomIn"
+msgstr "ズームイン"
+
+#: inc/customize/customize-kirki.php:177
+msgid "wobble"
+msgstr "揺れ"
+
+#: inc/customize/customize-kirki.php:176
+msgid "tada"
+msgstr "tada"
+
+#: inc/customize/customize-kirki.php:175
+msgid "swing"
+msgstr "スイング"
+
+#: inc/customize/customize-kirki.php:174
+msgid "slideInUp"
+msgstr "スライドイン上"
+
+#: inc/customize/customize-kirki.php:173
+msgid "slideInRight"
+msgstr "スライドイン右"
+
+#: inc/customize/customize-kirki.php:172
+msgid "slideInLeft"
+msgstr "スライドイン左"
+
+#: inc/customize/customize-kirki.php:171
+msgid "slideInDown"
+msgstr "スライドイン下"
+
+#: inc/customize/customize-kirki.php:170
+msgid "shake"
+msgstr "シェイク"
+
+#: inc/customize/customize-kirki.php:169
+msgid "rotateInUpRight"
+msgstr "右上に回転"
+
+#: inc/customize/customize-kirki.php:168
+msgid "rotateInUpLeft"
+msgstr "左上に回転"
+
+#: inc/customize/customize-kirki.php:167
+msgid "rotateInDownRight"
+msgstr "右下に回転"
+
+#: inc/customize/customize-kirki.php:166
+msgid "rotateInDownLeft"
+msgstr "左下に回転"
+
+#: inc/customize/customize-kirki.php:165
+msgid "rotateIn"
+msgstr "回転"
+
+#: inc/customize/customize-kirki.php:164
+msgid "rollIn"
+msgstr "ロールイン"
+
+#: inc/customize/customize-kirki.php:163
+msgid "pulse"
+msgstr "パルス"
+
+#: inc/customize/customize-kirki.php:162
+msgid "lightSpeedIn"
+msgstr "高速イン"
+
+#: inc/customize/customize-kirki.php:161
+msgid "jello"
+msgstr "ジェロ"
+
+#: inc/customize/customize-kirki.php:160
+msgid "hinge"
+msgstr "ヒンジ"
+
+#: inc/customize/customize-kirki.php:159
+msgid "headShake"
+msgstr "ヘッドシェイク"
+
+#: inc/customize/customize-kirki.php:158
+msgid "flipInY"
+msgstr "フリップイン Y"
+
+#: inc/customize/customize-kirki.php:157
+msgid "flip"
+msgstr "フリップ"
+
+#: inc/customize/customize-kirki.php:156
+msgid "flash"
+msgstr "フラッシュ"
+
+#: inc/customize/customize-kirki.php:155
+msgid "fadeInUpBig"
+msgstr "フェードイン上・大"
+
+#: inc/customize/customize-kirki.php:154
+msgid "fadeInUp"
+msgstr "フェードイン上"
+
+#: inc/customize/customize-kirki.php:153
+msgid "fadeInRightBig"
+msgstr "フェードイン右・大"
+
+#: inc/customize/customize-kirki.php:152
+msgid "fadeInRight"
+msgstr "フェードイン右"
+
+#: inc/customize/customize-kirki.php:151
+msgid "fadeInLeftBig"
+msgstr "フェードイン左・大"
+
+#: inc/customize/customize-kirki.php:150
+msgid "fadeInLeft"
+msgstr "フェードイン左"
+
+#: inc/customize/customize-kirki.php:149
+msgid "fadeInDownBig"
+msgstr "フェードイン下・大"
+
+#: inc/customize/customize-kirki.php:148
+msgid "bounceInUp"
+msgstr "バウンスイン上"
+
+#: inc/customize/customize-kirki.php:147
+msgid "bounceInRight"
+msgstr "バウンスイン右"
+
+#: inc/customize/customize-kirki.php:146
+msgid "bounceInLeft"
+msgstr "バウンスイン左"
+
+#: inc/customize/customize-kirki.php:145
+msgid "bounceInDown"
+msgstr "バウンスイン下"
+
+#: inc/customize/customize-kirki.php:144
+msgid "bounceIn"
+msgstr "バウンスイン"
+
+#: inc/customize/customize-kirki.php:143
+msgid "bounce"
+msgstr "バウンス"
+
+#: inc/customize/customize-kirki.php:142
+msgid "flipInX"
+msgstr "フリップイン X"
+
+#: inc/customize/customize-kirki.php:141
+msgid "fadeIn"
+msgstr "フェードイン"
+
+#: inc/customize/customize-kirki.php:140
+#: inc/kirki/includes/class-kirki-l10n.php:204
+msgid "None"
+msgstr "なし"
+
+#: inc/customize/customize-kirki.php:135
+msgid "Select Animation"
+msgstr "アニメーションを選択"
+
+#: inc/customize/customize-kirki.php:121
+msgid "Sidebar Animations"
+msgstr "サイドバーのアニメーション"
+
+#: inc/customize/customize-kirki.php:105
+msgid "Remove comments page from the menu"
+msgstr "メニューからコメントページを削除する"
+
+#: inc/customize/customize-kirki.php:88
+msgid "Hide existing comments"
+msgstr "既存のコメントを隠す"
+
+#: inc/customize/customize-kirki.php:76 inc/customize/customize-kirki.php:94
+#: inc/customize/customize-kirki.php:111 inc/customize/customize-kirki.php:335
+msgid "off"
+msgstr "オフ"
+
+#: inc/customize/customize-kirki.php:75 inc/customize/customize-kirki.php:93
+#: inc/customize/customize-kirki.php:110 inc/customize/customize-kirki.php:334
+msgid "on"
+msgstr "オン"
+
+#: inc/customize/customize-kirki.php:70
+msgid "Hide All Comments"
+msgstr "すべてのコメントを非表示"
+
+#: inc/customize/customize-kirki.php:56
+msgid "Disable All Comments"
+msgstr "すべてのコメントを無効にする"
+
+#: inc/customize/customize-kirki.php:39
+msgid "Code Control"
+msgstr "コードコントロール"
+
+#: inc/customize/customize-kirki.php:25
+msgid "Add custom CSS here"
+msgstr "カスタム CSS をここに追加"
+
+#: inc/customize/customize-kirki.php:24
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+#: inc/customize/customize-kirki.php:16
+msgid "Free Kirki Options"
+msgstr "無料 Kirki オプション"
+
+#: inc/customize/customize-kirki.php:15
+msgid "Free Options"
+msgstr "無料オプション"
+
+#: inc/customize/slider-customize.php:10 inc/customize/slider-customize.php:11
+msgid "Demo Slide"
+msgstr "デモスライド"
+
+#: inc/customize/slider-customize.php:218
+msgid "Slide 1 URL:"
+msgstr "スライド 1 URL:"
+
+#: inc/customize/slider-customize.php:206
+msgid "Slide 1 Text:"
+msgstr "スライド 1 テキスト:"
+
+#: inc/customize/slider-customize.php:196
+msgid "Slide 1 IMG:"
+msgstr "スライド 1 画像:"
+
+#: inc/customize/slider-customize.php:180
+msgid "Slide Background Color"
+msgstr "スライド背景色"
+
+#: inc/customize/slider-customize.php:167
+msgid "Slide Title Hover Color"
+msgstr "スライドタイトルホバー色"
+
+#: inc/customize/slider-customize.php:154
+msgid "Slide Title Color"
+msgstr "スライドタイトル色"
+
+#: inc/magazine-news-functions.php:168
+msgid "Magazine News Buy"
+msgstr "Magazine News を購入"
+
+#: inc/magazine-news-functions.php:169 inc/magazine-news-functions.php:198
+#: inc/magazine-news-functions.php:209
+msgid "Magazine News Buy Premium"
+msgstr "Magazine News プレミアム購入"
+
+#: inc/magazine-news-functions.php:199
+msgid "\tLearn more about Magazine News. "
+msgstr "Magazine News の詳細をご覧ください。"
+
+#: inc/premium-options.php:29
+msgid "Buy"
+msgstr "購入する"
+
+#: inc/premium-options.php:29
+msgid " Now"
+msgstr "今"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:63
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%sの続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:20 template-parts/content.php:68
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: template-parts/content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr "見つかりませんでした"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:69 template-parts/content-page.php:31
+msgid " Edit %s"
+msgstr "%s を編集"
+
+#: inc/template-tags.php:62
+msgid " % Comments/"
+msgstr "%件のコメント"
+
+#: inc/template-tags.php:62
+msgid " 1 Comment "
+msgstr "1件のコメント"
+
+#: inc/template-tags.php:62
+msgid " Leave a comment "
+msgstr "コメントする"
+
+#: inc/template-tags.php:56
+msgid "Tagged: %1$s"
+msgstr "タグ: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:54
+msgid " "
+msgstr " "
+
+#: inc/template-tags.php:50
+msgid " Category: %1$s"
+msgstr "カテゴリー: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:31
+msgctxt "post author"
+msgid " By: %s "
+msgstr "投稿者: %s "
+
+#: inc/template-tags.php:26
+msgctxt "post date"
+msgid "%s "
+msgstr "%s "
+
+#: header.php:59
+msgid "Menu"
+msgstr "メニュー"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: inc/magazine-news-functions.php:103
+msgid "Footer 4"
+msgstr "フッター4"
+
+#: inc/magazine-news-functions.php:92
+msgid "Footer 3"
+msgstr "フッター3"
+
+#: inc/magazine-news-functions.php:81
+msgid "Footer 2"
+msgstr "フッター2"
+
+#: inc/magazine-news-functions.php:70
+msgid "Footer 1"
+msgstr "フッター1"
+
+#: inc/magazine-news-functions.php:60
+msgid "Sidebar Right"
+msgstr "サイドバー右"
+
+#: inc/magazine-news-functions.php:23
+msgid "Primary"
+msgstr "メイン"
+
+#: footer.php:50
+msgid "Theme by SEOS"
+msgstr "Theme by SEOS"
+
+#: footer.php:50
+msgid "https://seosthemes.com/"
+msgstr "https://seosthemes.com/"
+
+#: footer.php:50
+msgid "Wordpress theme"
+msgstr "WordPress theme"
+
+#: footer.php:48
+msgid "Powered by %s"
+msgstr "Powered by %s"
+
+#: footer.php:48
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:46
+msgid "All rights reserved"
+msgstr "All Rights Reserved"
+
+#: comments.php:89
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#: comments.php:55 comments.php:76
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:54 comments.php:75
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:51 comments.php:72
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#. translators: %1$s: smiley
+#: 404.php:49
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "月別アーカイブを探してみてください: %1$s"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "よく使われているカテゴリー"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここにはなにもないようです。下記のリンクまたは検索を試してみてください。"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"
+
+#. Author URI of the plugin/theme
+msgid "http://seosthemes.com/"
+msgstr "http://seosthemes.com/"
+
+#. Author of the plugin/theme
+msgid "SEOS"
+msgstr "SEOS"
+
+#. Theme URI of the plugin/theme
+msgid "http://seosthemes.com/magazine-news/"
+msgstr "http://seosthemes.com/magazine-news/"

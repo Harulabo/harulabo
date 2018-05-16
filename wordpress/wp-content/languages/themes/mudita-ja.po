@@ -1,0 +1,630 @@
+# Translation of Themes - Mudita in Japanese
+# This file is distributed under the same license as the Themes - Mudita package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-04 05:40:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Mudita\n"
+
+#. Description of the plugin/theme
+msgid "Mudita is a  beautifully designed, clean and modern multi-purpose WordPress theme. The theme is very versatile and can be used by any business websites, digital agency, consultancy, corporate business, freelancers, portfolio and product showcase, bloggers and everyone one who appreciates beautiful design. The theme is SEO friendly, which  make it easy for your site to rank Google and other search engines. Mudita is loaded with several features to make user-friendly, interactive and visually stunning website. Such features include two menus, full width banner,  service section, team section, testimonial section,  off canvas menu and social media. It has four footer area and a right sidebar and includes  three custom widgets for recent posts, popular posts, and the featured post. The theme is rigorously tested and optimized for speed and faster page load time and has a secure and clean code. The theme is also translation ready. Designed with visitor engagement in mind, Mudita allows anyone to create a stunning, fast and mobile friendly website compatible with all browsers and devices. Check the demo at http://raratheme.com/preview/mudita/, Documentation at http://raratheme.com/documentation/mudita and get support at http://raratheme.com/support-forum/."
+msgstr ""
+"Mudita は、美しくクリーンなデザインで、モダンで多機能なWordPressテーマです。このテーマは多機能で、ビジネス、デジタル関係企業、コンサルタンシー、企業、フリーランサー、ポートフォリオ、製品ショーケース、ブログ用ウェブサイト等、見た目が美しいデザインをお探しの方にぴったりです。このテーマでは、検索エンジン最適化 (SEO) 機能を使用しているため、Google のランキングで上位にランク付けされやすいのも特徴です。Mudita には、ユーザーフレンドリーで、インタラクティブかつ見た目も美しいウェブサイトを作成するための機能が揃っています。特に、2つのメニュー、フルワイド・バナー、サービス・セクション、チームセクション、お客様の声セクション、オフキャンバス・メニュー、ソーシャルメディアなどが特徴です。4つのフッターエリアと右サイドバー、さらに、最近の投稿、人気の投稿、特集投稿用の3つのカスタム・ウィジェットも付いています。ページの読み込みを最適化し、安全でシンプルなコードを使用するため、何度も試験を繰り返してできたテーマには、トランスレーション・レディ機能も搭載。一度サイトを訪れた人の印象に残る、Mudita を使用すれば、美しく、素早く、どんなデバイスにも互換性のあるモバイルフレンドリーなウェブサイトを作成できます。\n"
+"デモはこちら https://raratheme.com/preview/mudita/ \n"
+"資料をこちらから  https://raratheme.com/documentation/mudita\n"
+"サポート依頼はこちら https://raratheme.com/support-forum"
+
+#. Theme Name of the plugin/theme
+msgid "Mudita"
+msgstr "Mudita"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "ホームページ"
+
+#: template-parts/content.php:72
+msgid "Learn More "
+msgstr "詳細"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:47 template-parts/content.php:56
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:31 template-parts/content.php:63
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: sections/section-testimonial.php:42 sections/section-testimonial.php:75
+msgid "- "
+msgstr "- "
+
+#: search.php:22
+msgid " result for: "
+msgstr "結果: "
+
+#: inc/widget-recent-post.php:41 inc/widget-recent-post.php:102
+#: inc/widget-recent-post.php:145
+msgid "Recent Posts"
+msgstr "最近の記事"
+
+#: inc/widget-recent-post.php:27
+msgid "A Recent Post Widget"
+msgstr "最新記事ウィジェット"
+
+#: inc/widget-recent-post.php:26
+msgid "RARA: Recent Post"
+msgstr "RARA: 最新記事"
+
+#: inc/widget-popular-post.php:127 inc/widget-recent-post.php:126
+msgid "Show Post Date"
+msgstr "投稿日を表示する"
+
+#: inc/widget-popular-post.php:116 inc/widget-recent-post.php:115
+msgid "Number of Posts"
+msgstr "投稿数"
+
+#: inc/widget-popular-post.php:111 inc/widget-recent-post.php:110
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/widget-popular-post.php:41 inc/widget-popular-post.php:103
+#: inc/widget-popular-post.php:146
+msgid "Popular Posts"
+msgstr "人気の記事"
+
+#: inc/widget-popular-post.php:27
+msgid "A Popular Post Widget"
+msgstr "人気の投稿ウィジェット"
+
+#: inc/widget-popular-post.php:26
+msgid "RARA: Popular Post"
+msgstr "RARA: 人気の投稿"
+
+#: inc/widget-featured-post.php:122 inc/widget-popular-post.php:122
+#: inc/widget-recent-post.php:121
+msgid "Show Post Thumbnail"
+msgstr "投稿サムネイルを表示する"
+
+#: inc/widget-featured-post.php:116
+msgid "Excerpt Character"
+msgstr "抜粋文字"
+
+#: inc/widget-featured-post.php:102
+msgid "Posts"
+msgstr "投稿"
+
+#: inc/widget-featured-post.php:83
+msgid "--choose--"
+msgstr "-- 選択 --"
+
+#: inc/widget-featured-post.php:41 inc/widget-featured-post.php:95
+#: inc/widget-featured-post.php:142 template-parts/content-search.php:22
+msgid "Read More"
+msgstr "もっと見る"
+
+#: inc/widget-featured-post.php:27
+msgid "A Featured Post Widget"
+msgstr "特集記事ウィジェット"
+
+#: inc/widget-featured-post.php:26
+msgid "RARA: Featured Post"
+msgstr "RARA: 特集記事"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:66 template-parts/content-page.php:42
+msgid "Edit %s"
+msgstr "%sの編集"
+
+#: inc/template-tags.php:36
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: inc/template-tags.php:36
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: inc/template-tags.php:36
+msgid "Leave a comment"
+msgstr "コメントを残す"
+
+#: inc/template-tags.php:28
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:23
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/metabox.php:40
+msgid "Choose Sidebar Template"
+msgstr "サイドバーテンプレートを選択"
+
+#: inc/metabox.php:28
+msgid "No sidebar"
+msgstr "サイドバーなし"
+
+#: inc/metabox.php:23
+msgid "Right sidebar (default)"
+msgstr "右サイドバー (デフォルト)"
+
+#: inc/metabox.php:13
+msgid "Sidebar Layout"
+msgstr "サイドバーのレイアウト"
+
+#: inc/extras.php:534
+msgid "https://wordpress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#: inc/extras.php:534
+msgid "Powered by: %s"
+msgstr "Powered by: %s"
+
+#: inc/extras.php:533
+msgid "Mudita by: Rara Theme"
+msgstr "Mudita by: Rara Theme"
+
+#: inc/extras.php:531
+msgid "Copyright &copy; "
+msgstr "Copyright &copy; "
+
+#: inc/extras.php:455 inc/template-tags.php:53 inc/template-tags.php:59
+#: inc/widget-popular-post.php:74 inc/widget-popular-post.php:76
+#: inc/widget-recent-post.php:73 inc/widget-recent-post.php:75
+msgid "%1$s"
+msgstr "%1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/extras.php:447 inc/template-tags.php:51 inc/template-tags.php:57
+msgid ", "
+msgstr "・"
+
+#: inc/extras.php:366
+msgid "(Edit)"
+msgstr "(編集)"
+
+#. translators: 1: date, 2: time
+#: inc/extras.php:366
+msgid "%s"
+msgstr "%s"
+
+#: inc/extras.php:359
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちの状態です。"
+
+#: inc/extras.php:356
+msgid "<b class=\"fn\">%s</b>"
+msgstr "<b class=\"fn\">%s</b>"
+
+#: inc/extras.php:304
+msgid "Gooble Plus"
+msgstr "Gooble +"
+
+#: inc/extras.php:300
+msgid "Pinterst"
+msgstr "Pinterst"
+
+#: inc/extras.php:196 search.php:21
+msgid "Search Result"
+msgstr "検索結果"
+
+#: inc/extras.php:173
+msgid "&gt;"
+msgstr "&gt;"
+
+#: inc/customizer.php:1003
+msgid "Put your custom CSS"
+msgstr "あなたのカスタム CSS を載せる"
+
+#: inc/customizer.php:1001
+msgid "Custom Css"
+msgstr "カスタム CSS"
+
+#: inc/customizer.php:983
+msgid "Custom CSS Settings"
+msgstr "カスタム CSS 設定"
+
+#: inc/customizer.php:971 inc/extras.php:308
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customizer.php:953 inc/extras.php:306
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer.php:935
+msgid "Google Plus"
+msgstr "Google+"
+
+#: inc/customizer.php:917 inc/extras.php:302
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer.php:899
+msgid "Pintest"
+msgstr "Pintest"
+
+#: inc/customizer.php:881 inc/extras.php:298
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:863 inc/extras.php:296
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:845
+msgid "Social Section Title"
+msgstr "ソーシャルセクションのタイトル"
+
+#: inc/customizer.php:827
+msgid "Enable Social Section"
+msgstr "ソーシャルセクションを有効にする"
+
+#: inc/customizer.php:809
+msgid "Enable Social Icons in Header"
+msgstr "ヘッダーのソーシャルアイコンを有効にする"
+
+#: inc/customizer.php:791
+msgid "Leave blank if you do not want to show the social link."
+msgstr "ソーシャルリンクを表示したくない場合は、空欄にしてください。"
+
+#: inc/customizer.php:790
+msgid "Social Settings"
+msgstr "ソーシャル設定"
+
+#: inc/customizer.php:779
+msgid "Breadcrumb Separator"
+msgstr "パンくずリスト・セパレーター"
+
+#: inc/customizer.php:771
+msgid ">"
+msgstr ">"
+
+#: inc/customizer.php:761
+msgid "Breadcrumb Home Text"
+msgstr "パンくずリスト・ホームテキスト"
+
+#: inc/customizer.php:753 inc/extras.php:174
+msgid "Home"
+msgstr "ホーム"
+
+#: inc/customizer.php:743
+msgid "Show current"
+msgstr "現在表示"
+
+#: inc/customizer.php:725
+msgid "Enable Breadcrumb"
+msgstr "パンくずリストを有効にする"
+
+#: inc/customizer.php:707
+msgid "Breadcrumb Settings"
+msgstr "パンくずリスト設定"
+
+#: inc/customizer.php:693
+msgid "Select Testimonial Post Three"
+msgstr "お客様の声・投稿3を選択"
+
+#: inc/customizer.php:674
+msgid "Select Testimonial Post Two"
+msgstr "お客様の声・投稿2を選択"
+
+#: inc/customizer.php:655
+msgid "Select Testimonial Post One"
+msgstr "お客様の声・投稿1を選択"
+
+#: inc/customizer.php:637
+msgid "Testimonial Section Content"
+msgstr "お客様の声コンテンツ"
+
+#: inc/customizer.php:619
+msgid "Testimonial Section Title"
+msgstr "お客様の声セクション・タイトル"
+
+#: inc/customizer.php:601
+msgid "Enable Testimonial Section"
+msgstr "お客様の声カテゴリー"
+
+#: inc/customizer.php:583
+msgid "Testimonial Section"
+msgstr "お客様の声セクション"
+
+#: inc/customizer.php:572
+msgid "Show Blog Date"
+msgstr "ブログの日付を表示"
+
+#: inc/customizer.php:554
+msgid "Blog Section Title"
+msgstr "ブログセクションのタイトル"
+
+#: inc/customizer.php:536
+msgid "Enable Blog Section"
+msgstr "ブログ・セクションを有効にする"
+
+#: inc/customizer.php:518
+msgid "Blog Section"
+msgstr "ブログ・セクション"
+
+#: inc/customizer.php:506
+msgid "Select Category"
+msgstr "カテゴリーを選択"
+
+#: inc/customizer.php:488
+msgid "Team Section Content"
+msgstr "チームセクションのコンテンツ"
+
+#: inc/customizer.php:470
+msgid "Team Section Title"
+msgstr "チームセクションのタイトル"
+
+#: inc/customizer.php:452
+msgid "Enable Team Section"
+msgstr "チームセクションを有効にする"
+
+#: inc/customizer.php:434
+msgid "Team Section"
+msgstr "チームセクション"
+
+#: inc/customizer.php:404
+msgid "Select Service Post Two"
+msgstr "サービス投稿2を選択"
+
+#: inc/customizer.php:385
+msgid "Select Service Post One"
+msgstr "サービス投稿1を選択"
+
+#: inc/customizer.php:367
+msgid "Enable Service Section"
+msgstr "サービスセクションを有効にする"
+
+#: inc/customizer.php:349
+msgid "Service Section"
+msgstr "サービス・セクション"
+
+#: inc/customizer.php:319
+msgid "Select Featured Post Four"
+msgstr "特集投稿4を選択"
+
+#: inc/customizer.php:300
+msgid "Select Featured Post Three"
+msgstr "特集投稿3を選択"
+
+#: inc/customizer.php:281
+msgid "Select Featured Post Two"
+msgstr "特集投稿2を選択"
+
+#: inc/customizer.php:262
+msgid "Select Featured Post One"
+msgstr "特集投稿1を選択"
+
+#: inc/customizer.php:244
+msgid "Featured Section Content"
+msgstr "特集セクション・コンテンツ"
+
+#: inc/customizer.php:226
+msgid "Featured Section Title"
+msgstr "特集セクション・タイトル"
+
+#: inc/customizer.php:208
+msgid "Enable Featured Section"
+msgstr "特集セクションを有効にする"
+
+#: inc/customizer.php:190
+msgid "Featured Section"
+msgstr "特集セクション"
+
+#: inc/customizer.php:179 inc/customizer.php:338 inc/customizer.php:423
+#: inc/widget-featured-post.php:112
+msgid "Read More Text"
+msgstr "「続きを読む」テキスト"
+
+#: inc/customizer.php:160
+msgid "Select Banner Post"
+msgstr "バナー投稿を選択"
+
+#: inc/customizer.php:142
+msgid "Enable Banner Section"
+msgstr "バナー・セクションを有効にする"
+
+#: inc/customizer.php:124
+msgid "Banner Section"
+msgstr "バナー・セクション"
+
+#: inc/customizer.php:116
+msgid "Customize Home Page Settings"
+msgstr "ホームページ設定のカスタマイズ"
+
+#: inc/customizer.php:115
+msgid "Home Page Settings"
+msgstr "ホームページ設定"
+
+#: inc/customizer.php:102
+msgid "Header Phone"
+msgstr "ヘッダー・電話番号"
+
+#: inc/customizer.php:84
+msgid "Enable Header Info"
+msgstr "ヘッダー情報を有効にする"
+
+#: inc/customizer.php:66
+msgid "Header Settings"
+msgstr "ヘッダー設定"
+
+#: inc/customizer.php:47
+msgid "Default section provided by WordPress customizer."
+msgstr "WordPress カスタマイザ－が提供する既定セクション。"
+
+#: inc/customizer.php:46
+msgid "Default Settings"
+msgstr "デフォルト設定"
+
+#: inc/customizer.php:34
+msgid "Choose Category"
+msgstr "カテゴリーを選択"
+
+#: inc/customizer.php:18
+msgid "Choose Post"
+msgstr "投稿を選択"
+
+#: header.php:69
+msgid "Menu"
+msgstr "メニュー"
+
+#: functions.php:187
+msgid "Footer Four"
+msgstr "フッター4"
+
+#: functions.php:177
+msgid "Footer Three"
+msgstr "フッター 3"
+
+#: functions.php:167
+msgid "Footer Two"
+msgstr "フッター 2"
+
+#: functions.php:157
+msgid "Footer One"
+msgstr "フッター 1"
+
+#: functions.php:147
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: functions.php:48
+msgid "Secondary"
+msgstr "セカンダリー"
+
+#: functions.php:47
+msgid "Primary"
+msgstr "メイン"
+
+#: comments.php:123
+msgid "Your email address will not be published. "
+msgstr "あなたのメールアドレスは公開されません。"
+
+#: comments.php:116
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "<a href=\"%1$s\">%2$s</a>としてログインしています。<a href=\"%3$s\" title=\"Log out of this account\">ログアウトしますか?</a>"
+
+#: comments.php:110
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "コメントを投稿するには、<a href=\"%s\">ログイン</a>が必要です。"
+
+#: comments.php:105
+msgid "Comment"
+msgstr "コメント"
+
+#: comments.php:104
+msgctxt "noun"
+msgid "Comment"
+msgstr "コメント"
+
+#: comments.php:101
+msgid "POST COMMENT"
+msgstr "コメントを投稿"
+
+#: comments.php:100
+msgid "Cancel Reply"
+msgstr "返信をキャンセル"
+
+#: comments.php:99
+msgid "Leave a Reply to %s"
+msgstr "%s へ返信する"
+
+#: comments.php:98
+msgid "Leave a Reply"
+msgstr "返信する"
+
+#: comments.php:88
+msgid "Website"
+msgstr "ウェブサイト"
+
+#: comments.php:84
+msgid "Email*"
+msgstr "メール*"
+
+#: comments.php:80
+msgid "Name*"
+msgstr "名前*"
+
+#: comments.php:75
+msgid "Required fields are marked"
+msgstr "必須項目には印がついています"
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#: comments.php:49
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:48
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:29
+msgid "Comments"
+msgstr "コメント"
+
+#: archive.php:38 inc/extras.php:265 index.php:38 search.php:42
+msgid "Page"
+msgstr "ページ"
+
+#: 404.php:20
+msgid "The page you are looking for doesn&apos;t exist or an other error occured. Go to our %1$s or go back to %2$s."
+msgstr "お探しのページは存在しないか、その他のエラーが発生しました。%1$sに行くか、%2$sへ戻ってください。"
+
+#: 404.php:18
+msgid "previous page"
+msgstr "前のページ"
+
+#: 404.php:17
+msgid "homepage"
+msgstr "ホームページ"
+
+#: 404.php:14
+msgid "Page not found"
+msgstr "ページが見つかりませんでした"
+
+#: 404.php:13
+msgid "404"
+msgstr "404"
+
+#. Author URI of the plugin/theme
+msgid "http://raratheme.com/"
+msgstr "http://raratheme.com/"
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the plugin/theme
+msgid "http://raratheme.com/wordpress-themes/mudita/"
+msgstr "http://raratheme.com/wordpress-themes/mudita/"
